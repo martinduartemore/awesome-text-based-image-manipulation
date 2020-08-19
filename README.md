@@ -28,7 +28,7 @@ the first preprint release date.
 |Date|Title|Venue|Citations|Paper|Code|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2016/05|Generative Adversarial Text to Image Synthesis|ICML|N/A|[arXiv](https://arxiv.org/abs/1605.05396)|[Torch (Official)](https://github.com/reedscot/icml2016) ![](https://img.shields.io/github/stars/reedscot/icml2016.svg?style=social)|
-|2017/10|Be Your Own Prada: Fashion Synthesis with Structural Coherence|ICCV|N/A|[arXiv](https://arxiv.org/abs/1710.07346)|[Torch (Official)](https://github.com/zhusz/ICCV17-fashionGAN) ![](https://img.shields.io/github/stars/zhusz/ICCV17-fashoionGAN.svg?style=social)|
+|2017/10|Be Your Own Prada: Fashion Synthesis with Structural Coherence|ICCV|N/A|[arXiv](https://arxiv.org/abs/1710.07346)|[Torch (Official)](https://github.com/zhusz/ICCV17-fashionGAN) ![](https://img.shields.io/github/stars/zhusz/ICCV17-fashionGAN.svg?style=social)|
 |2017/12|CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-drive Communication|ACL|N/A|[arXiv](https://arxiv.org/abs/1712.05558)|[PyTorch (Official)](https://github.com/facebookresearch/codraw-models) ![](https://img.shields.io/github/stars/facebookresearch/codraw-models.svg?style=social)|
 
 
