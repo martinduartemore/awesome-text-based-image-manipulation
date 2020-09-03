@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Generative Adversarial Text to Image Synthesis",
+        "date": "2016/05",
+        "venue": "ICML",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1605.05396"
+            }
+        ],
+        "code": [
+            {
+                "name": "Torch (Official)",
+                "link": "https://github.com/reedscot/icml2016"
+            }
+        ]
+    },
+
+    {
+        "title": "Be Your Own Prada: Fashion Synthesis with Structural Coherence",
+        "date": "2017/10",
+        "venue": "ICCV",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1710.07346"
+            }
+        ],
+        "code": [
+            {
+                "name": "Torch (Official)",
+                "link": "https://github.com/zhusz/ICCV17-fashionGAN"
+            }
+        ]
+    },
+
+    {
+        "title": "CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-driven Communication",
+        "date": "2017/12",
+        "venue": "ACL",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1712.05558"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/facebookresearch/codraw-models"
+            }
+        ]
+    }
+
+]
