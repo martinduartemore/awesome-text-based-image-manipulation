@@ -51,6 +51,168 @@
                 "link": "https://github.com/facebookresearch/codraw-models"
             }
         ]
+    },
+
+    {
+        "title": "Semantic Image Synthesis via Adversarial Learning",
+        "date": "2017/07",
+        "venue": "ICCV",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1707.06873"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch",
+                "link": "https://github.com/woozzu/dong_iccv_2017"
+            }
+        ]
+    },
+
+    {
+        "title": "Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation",
+        "date": "2018/04",
+        "venue": "ECCV",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1804.04128"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/awesome-davian/Text2Colors"
+            }
+        ]
+    },
+
+    {
+        "title": "Cross-Modal Style Transfer",
+        "date": "2018/10",
+        "venue": "ICIP",
+        "paper_info": [
+            {
+                "name": "IEEE",
+                "link": "https://ieeexplore.ieee.org/document/8451734"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/SahilC/Cross-Modal-Style"
+            }
+        ]
+    },
+
+    {
+        "title": "Interactive Image Manipulation with Natural Language Instruction Commands",
+        "date": "2017/12",
+        "venue": "NeurIPS (ViGIL Workshop)",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1802.08645"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Keep Drawing It: Iterative Language-based Image Generation and Editing",
+        "date": "2018/11",
+        "venue": "NeurIPS (ViGIL Workshop)",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1811.09845v1"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Language Guided Fashion Image Manipulation with Feature-wise Transformations",
+        "date": "2018/08",
+        "venue": "ECCV (Workshop)",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1808.04000"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Language-Based Image Editing with Recurrent Attentive Models",
+        "date": "2017/11",
+        "venue": "CVPR",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1711.06288"
+            }
+        ],
+        "code": [
+            {
+                "name": "TensorFlow (Official)",
+                "link": "https://github.com/Jianbo-Lab/LBIE"
+            }
+        ]
+    },
+
+    {
+        "title": "Learning to Color from Language",
+        "date": "2018/04",
+        "venue": "NAACL",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1711.06288"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/superhans/colorfromlanguage"
+            }
+        ]
+    },
+
+    {
+        "title": "Learning to Globally Edit Images with Textual Description",
+        "date": "2018/10",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1810.05786"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/sohuren/Img_edit_with_text"
+            }
+        ]
     }
 
 ]
