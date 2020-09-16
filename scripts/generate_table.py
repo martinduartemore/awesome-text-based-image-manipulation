@@ -46,5 +46,11 @@ def generate_table_papers():
 
 
 if __name__ == '__main__':
+    with open('README_BASE.md', 'r') as f:
+        readme = f.read()
+
     table_papers = generate_table_papers()
-    print(table_papers)
+    readme = readme.replace('{{{table-papers}}}', table_papers)
+
+    with open('README.md', 'w') as f:
+        f.write(readme)
