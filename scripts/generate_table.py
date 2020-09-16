@@ -33,7 +33,7 @@ def generate_table_papers():
             github_info = '/'.join(code['link'].split('/')[-2:])
             github_stars = ' ![](https://img.shields.io/github/stars/{}.svg?style=social)'
             github_stars = github_stars.format(github_info)
-            code_str += github_stars
+            code_str += '<br>' + github_stars
             codes.append(code_str)
         codes = '<br>'.join(codes)
         paper_info['codes'] = codes
