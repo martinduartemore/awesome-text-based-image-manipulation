@@ -213,6 +213,122 @@
                 "link": "https://github.com/sohuren/Img_edit_with_text"
             }
         ]
+    },
+
+    {
+        "title": "LUCSS: Language-based User-customized Colourization of Scene Sketches",
+        "date": "2018/08",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1808.10544"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "MC-GAN: Multi-conditional Generative Adversarial Network for Image Synthesis",
+        "date": "2018/05",
+        "venue": "BMVC",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1805.01123"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/HYOJINPARK/MC_GAN"
+            }
+        ]
+    },
+
+    {
+        "title": "Paired-D GAN for Semantic Image Synthesis",
+        "date": "2018/12",
+        "venue": "ACCV",
+        "paper_info": [
+            {
+                "name": "Springer",
+                "link": "https://link.springer.com/chapter/10.1007/978-3-030-20870-7_29"
+            },
+            {
+                "name": "Author",
+                "link": "http://www.dgcv.nii.ac.jp/Publications/Papers/2018/ACCV2018a.pdf"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/vominhduc/Paied-D-GAN"
+            }
+        ]
+    },
+
+    {
+        "title": "Semantic Image Synthesis via Conditional Cycle-Generative Adversarial Networks",
+        "date": "2018/07",
+        "venue": "ICPR",
+        "paper_info": [
+            {
+                "name": "IEEE",
+                "link": "https://ieeexplore.ieee.org/document/8545383"
+            },
+            {
+                "name": "ResearchGate",
+                "link": "https://www.researchgate.net/publication/329317460"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Semantics Images Synthesis and Resolution Refinement Using Generative Adversarial Networks",
+        "date": "2018/07",
+        "venue": "CSPS",
+        "paper_info": [
+            {
+                "name": "Springer",
+                "link": "https://link.springer.com/chapter/10.1007/978-981-13-6504-1_74"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Semantics Images Synthesis and Resolution Refinement Using Generative Adversarial Networks",
+        "date": "2018/07",
+        "venue": "CSPS",
+        "paper_info": [
+            {
+                "name": "Springer",
+                "link": "https://link.springer.com/chapter/10.1007/978-981-13-6504-1_74"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
     }
 
 ]
