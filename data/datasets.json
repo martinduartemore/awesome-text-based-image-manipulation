@@ -1,0 +1,105 @@
+[
+    {
+        "title": "102 Category Flower",
+        "paper_info": [
+            {
+                "name": "Images",
+                "link": "https://ieeexplore.ieee.org/document/4756141"
+            },
+            {
+                "name": "Captions",
+                "link": "https://arxiv.org/abs/1605.05395"
+            },
+            {
+                "name": "Embeddings (Char-CNN-RNN)",
+                "link": "https://arxiv.org/abs/1605.05396"
+            }
+        ],
+        "links": [
+            {
+                "name": "Images",
+                "link": "https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html"
+            },
+            {
+                "name": "Captions",
+                "link": "https://github.com/reedscot/icml2016"
+            },
+            {
+                "name": "Embeddings (Char-CNN-RNN)",
+                "link": "https://github.com/reedscot/icml2016"
+            }
+        ]
+    },
+
+    {
+        "title": "Caltech-UCSD Birds 200-2011",
+        "paper_info": [
+            {
+                "name": "Images",
+                "link": "http://www.vision.caltech.edu/visipedia/papers/CUB_200_2011.pdf"
+            },
+            {
+                "name": "Captions",
+                "link": "https://arxiv.org/abs/1605.05395"
+            },
+            {
+                "name": "Embeddings (Char-CNN-RNN)",
+                "link": "https://arxiv.org/abs/1605.05396"
+            }
+        ],
+        "links": [
+            {
+                "name": "Images",
+                "link": "http://www.vision.caltech.edu/visipedia/CUB-200-2011.html"
+            },
+            {
+                "name": "Captions",
+                "link": "https://github.com/reedscot/icml2016"
+            },
+            {
+                "name": "Embeddings (Char-CNN-RNN)",
+                "link": "https://github.com/reedscot/icml2016"
+            }
+        ]
+    },
+
+    {
+        "title": "CoDraw",
+        "paper_info": [
+            {
+                "name": "Data",
+                "link": "http://arxiv.org/abs/1712.05558"
+            }
+        ],
+        "links": [
+            {
+                "name": "Data",
+                "link": "https://github.com/facebookresearch/CoDraw"
+            }
+        ]
+    },
+
+    {
+        "title": "DeepFashion",
+        "paper_info": [
+            {
+                "name": "Images",
+                "link": "https://liuziwei7.github.io/projects/DeepFashion.html"
+            },
+            {
+                "name": "Captions",
+                "link": "https://arxiv.org/abs/1710.07346"
+            }
+        ],
+        "links": [
+            {
+                "name": "Images",
+                "link": "http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html"
+            },
+            {
+                "name": "Captions",
+                "link": "http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN/"
+            }
+        ]
+    }
+]
