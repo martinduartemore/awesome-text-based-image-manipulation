@@ -43,8 +43,11 @@ the first preprint release date.
 |2018/08|LUCSS: Language-based User-customized Colourization of Scene Sketches|-|N/A|[arXiv](https://arxiv.org/abs/1808.10544)|[-](-)<br> ![](https://img.shields.io/github/stars/-.svg?style=social)|
 |2018/10|Cross-Modal Style Transfer|ICIP|N/A|[IEEE](https://ieeexplore.ieee.org/document/8451734)|[PyTorch (Official)](https://github.com/SahilC/Cross-Modal-Style)<br> ![](https://img.shields.io/github/stars/SahilC/Cross-Modal-Style.svg?style=social)|
 |2018/10|Learning to Globally Edit Images with Textual Description|-|N/A|[arXiv](https://arxiv.org/abs/1810.05786)|[PyTorch (Official)](https://github.com/sohuren/Img_edit_with_text)<br> ![](https://img.shields.io/github/stars/sohuren/Img_edit_with_text.svg?style=social)|
+|2018/10|Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language|NeurIPS|N/A|[arXiv](https://arxiv.org/abs/1810.11919)|[PyTorch (Official)](https://github.com/woozzu/tagan)<br> ![](https://img.shields.io/github/stars/woozzu/tagan.svg?style=social)|
 |2018/11|Keep Drawing It: Iterative Language-based Image Generation and Editing|NeurIPS (ViGIL Workshop)|N/A|[arXiv](https://arxiv.org/abs/1811.09845v1)|[-](-)<br> ![](https://img.shields.io/github/stars/-.svg?style=social)|
+|2018/11|Tell, Draw, and Repeat: Generating and Modifying Images Based on Continual Linguistic Instruction|ICCV|N/A|[arXiv](https://arxiv.org/abs/1811.09845)|[PyTorch (Official)](https://github.com/Maluuba/GeNeVA)<br> ![](https://img.shields.io/github/stars/Maluuba/GeNeVA.svg?style=social)|
 |2018/12|Paired-D GAN for Semantic Image Synthesis|ACCV|N/A|[Springer](https://link.springer.com/chapter/10.1007/978-3-030-20870-7_29)<br>[Author](http://www.dgcv.nii.ac.jp/Publications/Papers/2018/ACCV2018a.pdf)|[PyTorch (Official)](https://github.com/vominhduc/Paied-D-GAN)<br> ![](https://img.shields.io/github/stars/vominhduc/Paied-D-GAN.svg?style=social)|
+|2018/12|Sequential Attention GAN for Interactive Image Editing via Dialogue|ACMMM|N/A|[arXiv](https://arxiv.org/abs/1812.08352)|[-](-)<br> ![](https://img.shields.io/github/stars/-.svg?style=social)|
 
 
 ## Contributing
