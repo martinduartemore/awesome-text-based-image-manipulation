@@ -329,6 +329,60 @@
                 "link": "-"
             }
         ]
+    },
+
+    {
+        "title": "Sequential Attention GAN for Interactive Image Editing via Dialogue",
+        "date": "2018/12",
+        "venue": "ACMMM",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1812.08352"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Tell, Draw, and Repeat: Generating and Modifying Images Based on Continual Linguistic Instruction",
+        "date": "2018/11",
+        "venue": "ICCV",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1811.09845"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/Maluuba/GeNeVA"
+            }
+        ]
+    },
+
+    {
+        "title": "Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language",
+        "date": "2018/10",
+        "venue": "NeurIPS",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1810.11919"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/woozzu/tagan"
+            }
+        ]
     }
 
 ]
