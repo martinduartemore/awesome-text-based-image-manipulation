@@ -383,6 +383,359 @@
                 "link": "https://github.com/woozzu/tagan"
             }
         ]
-    }
+    },
 
+    {
+        "title": "Bilinear Representation for Language-based Image Editing Using Conditional Generative Adversarial Networks",
+        "date": "2019/03",
+        "venue": "ICASSP",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1903.07499"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/vtddggg/BilinearGAN_for_LBIE"
+            }
+        ]
+    },
+
+    {
+        "title": "Controllable Text-to-Image Generation",
+        "date": "2019/09",
+        "venue": "NeurIPS",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1909.07083"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/mrlibw/ControlGAN"
+            },
+            {
+                "name": "TensorFLow",
+                "link": "https://github.com/taki0112/ControlGAN-Tensorflow"
+            }
+        ]
+    },
+
+    {
+        "title": "Eevee: Transforming Images by Bridging High-level Goals and Low-level Edit Operations",
+        "date": "2019/05",
+        "venue": "CHI",
+        "paper_info": [
+            {
+                "name": "ACM",
+                "link": "https://dl.acm.org/doi/10.1145/3290607.3312929"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Language-based Colorization of Scene Sketches",
+        "date": "2019/03",
+        "venue": "SIGGRAPH Asia",
+        "paper_info": [
+            {
+                "name": "ACM",
+                "link": "https://dl.acm.org/doi/10.1145/3355089.3356561"
+            },
+            {
+                "name": "Author",
+                "link": "mo-haoran.com/files/SIGA19/SketchColorization_paper_SA2019.pdf"
+            }
+        ],
+        "code": [
+            {
+                "name": "TensorFlow (Official)",
+                "link": "https://github.com/SketchyScene/SketchySceneColorization"
+            }
+        ]
+    },
+
+    {
+        "title": "Multi-mapping Image-to-Image Translation via Learning Disentanglement",
+        "date": "2019/09",
+        "venue": "NeurIPS",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1909.07877"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/Xiaoming-Yu/DMIT"
+            }
+        ]
+    },
+
+    {
+        "title": "SIMGAN: Photo-Realistic Semantic Image Manipulation Using Generative Adversarial Networks",
+        "date": "2019/08",
+        "venue": "ICIP",
+        "paper_info": [
+            {
+                "name": "IEEE",
+                "link": "https://ieeexplore.ieee.org/document/8804285"
+            },
+            {
+                "name": "Author",
+                "link": "https://zsdonghao.github.io/paper/2019icip_simgan.pdf"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Text Guided Person Image Synthesis",
+        "date": "2019/04",
+        "venue": "CVPR",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1904.05118"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Scones: Towards Conversational Authoring of Sketches",
+        "date": "2020/05",
+        "venue": "IUI",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2005.07781"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Progressive Semantic Image Synthesis via Generative Adversarial Network",
+        "date": "2020/01",
+        "venue": "VCIP",
+        "paper_info": [
+            {
+                "name": "IEEE",
+                "link": "https://ieeexplore.ieee.org/document/8966069"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Customizable GAN: A Method for Image Synthesis of Human Controllable",
+        "date": "2020/06",
+        "venue": "IEEE Access",
+        "paper_info": [
+            {
+                "name": "IEEE",
+                "link": "https://ieeexplore.ieee.org/document/9112217"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach",
+        "date": "2020/08",
+        "venue": "ACMMM",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2008.04200"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/yhlleo/DWC-GAN"
+            }
+        ]
+    },
+
+    {
+        "title": "FACT: Fused Attention for Clothing Transfer with Generative Adversarial Networks",
+        "date": "2020/02",
+        "venue": "AAAI",
+        "paper_info": [
+            {
+                "name": "AAAI",
+                "link": "https://aaai.org/ojs/index.php/AAAI/article/view/6987/6841"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Grounded and Controllable Image Completion by Incorporating Lexical Semantics",
+        "date": "2020/02",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2003.00303"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Image Manipulation with Natural Language using Two-sided Attentive Conditional Generative Adversarial Network",
+        "date": "2019/12",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1912.07478"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Image-to-Image Translation with Text Guidance",
+        "date": "2020/02",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2002.05235"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Learning Cross-Modal Representations for Language-Based Image Manipulation",
+        "date": "2020/10",
+        "venue": "ICIP",
+        "paper_info": [
+            {
+                "name": "ResearchGate",
+                "link": "https://www.researchgate.net/publication/341984406"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "ManiGAN: Text-Guided Image Manipulation",
+        "date": "2019/12",
+        "venue": "CVPR",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1912.06203"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/mrlibw/ManiGAN"
+            }
+        ]
+    },
+
+    {
+        "title": "Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions",
+        "date": "2020/08",
+        "venue": "ECCV",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2008.01576"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/xh-liu/Open-Edit"
+            }
+        ]
+    },
+
+    {
+        "title": "Text as Neural Operator: Image Manipulation by Text Instruction",
+        "date": "2020/08",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2008.04556"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    }
 ]
