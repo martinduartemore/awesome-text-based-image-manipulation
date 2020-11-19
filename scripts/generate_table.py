@@ -29,6 +29,8 @@ def generate_table_papers():
 
         codes = []
         for code in paper['code']:
+            if code['name'] == '-' and code['link'] == '-':
+                continue
             code_str = '[{}]({})'.format(code['name'], code['link'])
             github_info = '/'.join(code['link'].split('/')[-2:])
             github_stars = ' ![](https://img.shields.io/github/stars/{}.svg?style=social)'
@@ -36,6 +38,8 @@ def generate_table_papers():
             code_str += '<br>' + github_stars
             codes.append(code_str)
         codes = '<br>'.join(codes)
+        if codes == '':
+            codes = '-'
         paper_info['codes'] = codes
 
         paper_row = '|{date}|{title}|{venue}|{citations}|{links}|{codes}|'.format(**paper_info)
