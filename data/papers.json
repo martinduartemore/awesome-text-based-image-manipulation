@@ -314,24 +314,6 @@
     },
 
     {
-        "title": "Semantics Images Synthesis and Resolution Refinement Using Generative Adversarial Networks",
-        "date": "2018/07",
-        "venue": "CSPS",
-        "paper_info": [
-            {
-                "name": "Springer",
-                "link": "https://link.springer.com/chapter/10.1007/978-981-13-6504-1_74"
-            }
-        ],
-        "code": [
-            {
-                "name": "-",
-                "link": "-"
-            }
-        ]
-    },
-
-    {
         "title": "Sequential Attention GAN for Interactive Image Editing via Dialogue",
         "date": "2018/12",
         "venue": "ACMMM",

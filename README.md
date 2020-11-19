@@ -38,7 +38,6 @@ the first preprint release date.
 |2018/05|MC-GAN: Multi-conditional Generative Adversarial Network for Image Synthesis|BMVC|N/A|[arXiv](https://arxiv.org/abs/1805.01123)|[PyTorch (Official)](https://github.com/HYOJINPARK/MC_GAN)<br> ![](https://img.shields.io/github/stars/HYOJINPARK/MC_GAN.svg?style=social)|
 |2018/07|Semantic Image Synthesis via Conditional Cycle-Generative Adversarial Networks|ICPR|N/A|[IEEE](https://ieeexplore.ieee.org/document/8545383)<br>[ResearchGate](https://www.researchgate.net/publication/329317460)|-|
 |2018/07|Semantics Images Synthesis and Resolution Refinement Using Generative Adversarial Networks|CSPS|N/A|[Springer](https://link.springer.com/chapter/10.1007/978-981-13-6504-1_74)|-|
-|2018/07|Semantics Images Synthesis and Resolution Refinement Using Generative Adversarial Networks|CSPS|N/A|[Springer](https://link.springer.com/chapter/10.1007/978-981-13-6504-1_74)|-|
 |2018/08|Language Guided Fashion Image Manipulation with Feature-wise Transformations|ECCV (Workshop)|N/A|[arXiv](https://arxiv.org/abs/1808.04000)|-|
 |2018/08|LUCSS: Language-based User-customized Colourization of Scene Sketches|-|N/A|[arXiv](https://arxiv.org/abs/1808.10544)|-|
 |2018/10|Cross-Modal Style Transfer|ICIP|N/A|[IEEE](https://ieeexplore.ieee.org/document/8451734)|[PyTorch (Official)](https://github.com/SahilC/Cross-Modal-Style)<br> ![](https://img.shields.io/github/stars/SahilC/Cross-Modal-Style.svg?style=social)|
