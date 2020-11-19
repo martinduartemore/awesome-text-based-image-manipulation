@@ -57,16 +57,21 @@ the first preprint release date.
 |2019/09|Multi-mapping Image-to-Image Translation via Learning Disentanglement|NeurIPS|N/A|[arXiv](https://arxiv.org/abs/1909.07877)|[PyTorch (Official)](https://github.com/Xiaoming-Yu/DMIT)<br> ![](https://img.shields.io/github/stars/Xiaoming-Yu/DMIT.svg?style=social)|
 |2019/12|Image Manipulation with Natural Language using Two-sided Attentive Conditional Generative Adversarial Network|-|N/A|[arXiv](https://arxiv.org/abs/1912.07478)|[-](-)<br> ![](https://img.shields.io/github/stars/-.svg?style=social)|
 |2019/12|ManiGAN: Text-Guided Image Manipulation|CVPR|N/A|[arXiv](https://arxiv.org/abs/1912.06203)|[PyTorch (Official)](https://github.com/mrlibw/ManiGAN)<br> ![](https://img.shields.io/github/stars/mrlibw/ManiGAN.svg?style=social)|
+|2019/12|Controlling Style and Semantics in Weakly-Supervised Image Generation|ECCV|N/A|[arXiv](https://arxiv.org/abs/1912.03161)|[PyTorch (Official)](https://github.com/dariopavllo/style-semantics)<br> ![](https://img.shields.io/github/stars/dariopavllo/style-semantics.svg?style=social)|
 |2020/01|Progressive Semantic Image Synthesis via Generative Adversarial Network|VCIP|N/A|[IEEE](https://ieeexplore.ieee.org/document/8966069)|[-](-)<br> ![](https://img.shields.io/github/stars/-.svg?style=social)|
 |2020/02|FACT: Fused Attention for Clothing Transfer with Generative Adversarial Networks|AAAI|N/A|[AAAI](https://aaai.org/ojs/index.php/AAAI/article/view/6987/6841)|[-](-)<br> ![](https://img.shields.io/github/stars/-.svg?style=social)|
 |2020/02|Grounded and Controllable Image Completion by Incorporating Lexical Semantics|-|N/A|[arXiv](https://arxiv.org/abs/2003.00303)|[-](-)<br> ![](https://img.shields.io/github/stars/-.svg?style=social)|
 |2020/02|Image-to-Image Translation with Text Guidance|-|N/A|[arXiv](https://arxiv.org/abs/2002.05235)|[-](-)<br> ![](https://img.shields.io/github/stars/-.svg?style=social)|
+|2020/04|Text-Guided Neural Image Inpainting|ACMMM|N/A|[arXiv](https://arxiv.org/abs/2004.03212)|[PyTorch (Official)](https://github.com/idealwhite/TDANet)<br> ![](https://img.shields.io/github/stars/idealwhite/TDANet.svg?style=social)|
 |2020/05|Scones: Towards Conversational Authoring of Sketches|IUI|N/A|[arXiv](https://arxiv.org/abs/2005.07781)|[-](-)<br> ![](https://img.shields.io/github/stars/-.svg?style=social)|
 |2020/06|Customizable GAN: A Method for Image Synthesis of Human Controllable|IEEE Access|N/A|[IEEE](https://ieeexplore.ieee.org/document/9112217)|[-](-)<br> ![](https://img.shields.io/github/stars/-.svg?style=social)|
 |2020/08|Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach|ACMMM|N/A|[arXiv](https://arxiv.org/abs/2008.04200)|[PyTorch (Official)](https://github.com/yhlleo/DWC-GAN)<br> ![](https://img.shields.io/github/stars/yhlleo/DWC-GAN.svg?style=social)|
 |2020/08|Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions|ECCV|N/A|[arXiv](https://arxiv.org/abs/2008.01576)|[PyTorch (Official)](https://github.com/xh-liu/Open-Edit)<br> ![](https://img.shields.io/github/stars/xh-liu/Open-Edit.svg?style=social)|
 |2020/08|Text as Neural Operator: Image Manipulation by Text Instruction|-|N/A|[arXiv](https://arxiv.org/abs/2008.04556)|[-](-)<br> ![](https://img.shields.io/github/stars/-.svg?style=social)|
+|2020/08|IR-GAN: Image Manipulation with Linguistic Instructionby Increment Reasoning|ACMMM|N/A|[ACM](https://dl.acm.org/doi/10.1145/3394171.3413777)|[-](-)<br> ![](https://img.shields.io/github/stars/-.svg?style=social)|
 |2020/10|Learning Cross-Modal Representations for Language-Based Image Manipulation|ICIP|N/A|[ResearchGate](https://www.researchgate.net/publication/341984406)|[-](-)<br> ![](https://img.shields.io/github/stars/-.svg?style=social)|
+|2020/10|Text-Guided Image Inpainting|ACMMM|N/A|[ACM](https://dl.acm.org/doi/abs/10.1145/3394171.3413939)|[-](-)<br> ![](https://img.shields.io/github/stars/-.svg?style=social)|
+|2020/10|Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation|NeurIPS|N/A|[arXiv](https://arxiv.org/abs/2010.12136)|[(Official)](https://github.com/mrlibw/Lightweight-Manipulation)<br> ![](https://img.shields.io/github/stars/mrlibw/Lightweight-Manipulation.svg?style=social)|
 
 
 ## Contributing

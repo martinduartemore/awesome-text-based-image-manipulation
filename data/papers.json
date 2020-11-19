@@ -737,5 +737,95 @@
                 "link": "-"
             }
         ]
+    },
+
+    {
+        "title": "IR-GAN: Image Manipulation with Linguistic Instructionby Increment Reasoning",
+        "date": "2020/08",
+        "venue": "ACMMM",
+        "paper_info": [
+            {
+                "name": "ACM",
+                "link": "https://dl.acm.org/doi/10.1145/3394171.3413777"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Text-Guided Image Inpainting",
+        "date": "2020/10",
+        "venue": "ACMMM",
+        "paper_info": [
+            {
+                "name": "ACM",
+                "link": "https://dl.acm.org/doi/abs/10.1145/3394171.3413939"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation",
+        "date": "2020/10",
+        "venue": "NeurIPS",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2010.12136"
+            }
+        ],
+        "code": [
+            {
+                "name": "(Official)",
+                "link": "https://github.com/mrlibw/Lightweight-Manipulation"
+            }
+        ]
+    },
+
+    {
+        "title": "Text-Guided Neural Image Inpainting",
+        "date": "2020/04",
+        "venue": "ACMMM",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2004.03212"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/idealwhite/TDANet"
+            }
+        ]
+    },
+
+    {
+        "title": "Controlling Style and Semantics in Weakly-Supervised Image Generation",
+        "date": "2019/12",
+        "venue": "ECCV",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/1912.03161"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/dariopavllo/style-semantics"
+            }
+        ]
     }
 ]
