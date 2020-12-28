@@ -101,5 +101,19 @@
                 "link": "http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN/"
             }
         ]
+    },
+
+    {
+        "title": "i-CLEVR",
+        "paper_info": [
+            {
+                "name": "Data",
+                "link": "https://arxiv.org/abs/1811.09845"
+            }
+        ],
+        "links": [
+            "name": "Data",
+            "link": "https://www.microsoft.com/en-us/research/project/generative-neural-visual-artist-geneva/"
+        ]
     }
 ]
