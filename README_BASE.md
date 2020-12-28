@@ -1,7 +1,7 @@
 # awesome-text-based-image-manipulation [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 A curated list of text-based image manipulation methods
 
-[![GitHub - LICENSE](https://img.shields.io/github/license/martinduartemore/awesome-text-based-image-manipulation.svg?style=flat)](./LICENSE)
+[![GitHub - LICENSE](https://img.shields.io/github/license/martinduartemore/awesome-text-based-image-manipulation)](./LICENSE)
 
 
 ## Table of Contents
