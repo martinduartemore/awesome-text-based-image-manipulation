@@ -29,5 +29,4 @@ the first preprint release date.
 
 
 ## Contributing
-Please read the [contribution guidelines](CONTRIBUTING.md).
-Then, feel free to send me [pull requests](https://github.com/martinduartemore/awesome-text-based-image-manipulation) to add resources.
+Feel free to send me [pull requests](https://github.com/martinduartemore/awesome-text-based-image-manipulation) to add resources.
