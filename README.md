@@ -68,6 +68,7 @@ the first preprint release date.
 |2020/08|Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions|ECCV|N/A|[arXiv](https://arxiv.org/abs/2008.01576)|[PyTorch (Official)](https://github.com/xh-liu/Open-Edit)<br> ![](https://img.shields.io/github/stars/xh-liu/Open-Edit.svg?style=social)|
 |2020/08|Text as Neural Operator: Image Manipulation by Text Instruction|-|N/A|[arXiv](https://arxiv.org/abs/2008.04556)|-|
 |2020/08|IR-GAN: Image Manipulation with Linguistic Instructionby Increment Reasoning|ACMMM|N/A|[ACM](https://dl.acm.org/doi/10.1145/3394171.3413777)|-|
+|2020/09|SSCR: Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning|EMNLP|N/A|[arXiv](https://arxiv.org/abs/2009.09566)|[PyTorch (Official)](https://github.com/tsujuifu/pytorch_sscr)<br> ![](https://img.shields.io/github/stars/tsujuifu/pytorch_sscr.svg?style=social)|
 |2020/10|Learning Cross-Modal Representations for Language-Based Image Manipulation|ICIP|N/A|[ResearchGate](https://www.researchgate.net/publication/341984406)|-|
 |2020/10|Text-Guided Image Inpainting|ACMMM|N/A|[ACM](https://dl.acm.org/doi/abs/10.1145/3394171.3413939)|-|
 |2020/10|Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation|NeurIPS|N/A|[arXiv](https://arxiv.org/abs/2010.12136)|[(Official)](https://github.com/mrlibw/Lightweight-Manipulation)<br> ![](https://img.shields.io/github/stars/mrlibw/Lightweight-Manipulation.svg?style=social)|

@@ -809,5 +809,23 @@
                 "link": "https://github.com/dariopavllo/style-semantics"
             }
         ]
+    },
+
+    {
+        "title": "SSCR: Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning",
+        "date": "2020/09",
+        "venue": "EMNLP",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2009.09566"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/tsujuifu/pytorch_sscr"
+            }
+        ]
     }
 ]
