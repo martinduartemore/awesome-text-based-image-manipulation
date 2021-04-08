@@ -863,6 +863,24 @@
                 "link": "https://github.com/IIGROUP/TediGAN"
             }
         ]
+    },
+
+    {
+        "title": "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery",
+        "date": "2021/03",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2103.17249"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/orpatashnik/StyleCLIP"
+            }
+        ]
     }
 
 ]

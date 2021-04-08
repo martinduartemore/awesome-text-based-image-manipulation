@@ -76,6 +76,7 @@ the first preprint release date.
 |2020/10|Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation|NeurIPS|N/A|[arXiv](https://arxiv.org/abs/2010.12136)|[(Official)](https://github.com/mrlibw/Lightweight-Manipulation)<br> ![](https://img.shields.io/github/stars/mrlibw/Lightweight-Manipulation.svg?style=social)|
 |2020/10|A Benchmark and Baseline for Language-Driven Image Editing|ACCV|N/A|[arXiv](https://arxiv.org/abs/2010.02330)|[- (Official)](https://github.com/jshi31/LDIE_ACCV)<br> ![](https://img.shields.io/github/stars/jshi31/LDIE_ACCV.svg?style=social)|
 |2020/12|TediGAN: Text-Guided Diverse Face Image Generation and Manipulation|CVPR|N/A|[arXiv](https://arxiv.org/abs/2012.03308)|[PyTorch (Official)](https://github.com/IIGROUP/TediGAN)<br> ![](https://img.shields.io/github/stars/IIGROUP/TediGAN.svg?style=social)|
+|2021/03|StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery|-|N/A|[arXiv](https://arxiv.org/abs/2103.17249)|[PyTorch (Official)](https://github.com/orpatashnik/StyleCLIP)<br> ![](https://img.shields.io/github/stars/orpatashnik/StyleCLIP.svg?style=social)|
 
 
 ## Contributing
