@@ -881,6 +881,24 @@
                 "link": "https://github.com/orpatashnik/StyleCLIP"
             }
         ]
+    },
+
+    {
+        "title": "Zero-Shot Text-to-Image Generation",
+        "date": "2021/02",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2102.12092"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/openai/DALL-E"
+            }
+        ]
     }
 
 ]
