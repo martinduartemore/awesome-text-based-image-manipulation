@@ -827,5 +827,42 @@
                 "link": "https://github.com/tsujuifu/pytorch_sscr"
             }
         ]
+    },
+
+    {
+        "title": "A Benchmark and Baseline for Language-Driven Image Editing",
+        "date": "2020/10",
+        "venue": "ACCV",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2010.02330"
+            }
+        ],
+        "code": [
+            {
+                "name": "- (Official)",
+                "link": "https://github.com/jshi31/LDIE_ACCV"
+            }
+        ]
+    },
+
+    {
+        "title": "TediGAN: Text-Guided Diverse Face Image Generation and Manipulation",
+        "date": "2020/12",
+        "venue": "CVPR",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2012.03308"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/IIGROUP/TediGAN"
+            }
+        ]
     }
+
 ]

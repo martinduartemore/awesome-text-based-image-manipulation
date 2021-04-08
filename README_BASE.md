@@ -17,6 +17,8 @@ A curated list of text-based image manipulation methods
 |Caltech-UCSD Birds-200-2011|[Images](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)<br>[Captions](https://github.com/reedscot/icml2016)|
 |CoDraw|[Data](https://github.com/facebookresearch/CoDraw)|
 |DeepFashion|[Images](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/FashionSynthesis.html)<br>[Captions](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN)|
+|i-CLEVR|[Data](https://www.microsoft.com/en-us/research/project/generative-neural-visual-artist-geneva/)|
+|Multi-Modal-CelebA-HQ|[Data](https://github.com/IIGROUP/Multi-Modal-CelebA-HQ-Dataset)|
 
 
 ## Papers

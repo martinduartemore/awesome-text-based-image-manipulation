@@ -18,6 +18,7 @@ A curated list of text-based image manipulation methods
 |CoDraw|[Data](https://github.com/facebookresearch/CoDraw)|
 |DeepFashion|[Images](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/FashionSynthesis.html)<br>[Captions](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN)|
 |i-CLEVR|[Data](https://www.microsoft.com/en-us/research/project/generative-neural-visual-artist-geneva/)|
+|Multi-Modal-CelebA-HQ|[Data](https://github.com/IIGROUP/Multi-Modal-CelebA-HQ-Dataset)|
 
 
 ## Papers
@@ -73,6 +74,8 @@ the first preprint release date.
 |2020/10|Learning Cross-Modal Representations for Language-Based Image Manipulation|ICIP|N/A|[ResearchGate](https://www.researchgate.net/publication/341984406)|-|
 |2020/10|Text-Guided Image Inpainting|ACMMM|N/A|[ACM](https://dl.acm.org/doi/abs/10.1145/3394171.3413939)|-|
 |2020/10|Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation|NeurIPS|N/A|[arXiv](https://arxiv.org/abs/2010.12136)|[(Official)](https://github.com/mrlibw/Lightweight-Manipulation)<br> ![](https://img.shields.io/github/stars/mrlibw/Lightweight-Manipulation.svg?style=social)|
+|2020/10|A Benchmark and Baseline for Language-Driven Image Editing|ACCV|N/A|[arXiv](https://arxiv.org/abs/2010.02330)|[- (Official)](https://github.com/jshi31/LDIE_ACCV)<br> ![](https://img.shields.io/github/stars/jshi31/LDIE_ACCV.svg?style=social)|
+|2020/12|TediGAN: Text-Guided Diverse Face Image Generation and Manipulation|CVPR|N/A|[arXiv](https://arxiv.org/abs/2012.03308)|[PyTorch (Official)](https://github.com/IIGROUP/TediGAN)<br> ![](https://img.shields.io/github/stars/IIGROUP/TediGAN.svg?style=social)|
 
 
 ## Contributing

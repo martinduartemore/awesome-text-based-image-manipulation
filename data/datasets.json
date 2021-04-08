@@ -115,5 +115,20 @@
             "name": "Data",
             "link": "https://www.microsoft.com/en-us/research/project/generative-neural-visual-artist-geneva/"
         ]
+    },
+
+    {
+        "title": "Multi-Modal-CelebA-HQ",
+        "paper_info": [
+            {
+                "name": "Data",
+                "link": "https://arxiv.org/abs/2012.03308"
+            }
+        ],
+        "links": [
+            "name": "Data",
+            "link": "https://github.com/IIGROUP/Multi-Modal-CelebA-HQ-Dataset"
+        ]
     }
+
 ]
