@@ -868,7 +868,7 @@
     {
         "title": "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery",
         "date": "2021/03",
-        "venue": "-",
+        "venue": "ICCV",
         "paper_info": [
             {
                 "name": "arXiv",
@@ -897,6 +897,168 @@
             {
                 "name": "PyTorch (Official)",
                 "link": "https://github.com/openai/DALL-E"
+            }
+        ]
+    },
+
+    {
+        "title": "Text-Guided Style Transfer-Based Image Manipulation Using Multimodal Generative Models",
+        "date": "2021/03",
+        "venue": "IEEE TPAMI",
+        "paper_info": [
+            {
+                "name": "IEEE",
+                "link": "https://ieeexplore.ieee.org/abstract/document/9389731"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Text-Guided Human Image Manipulation via Image-Text Shared Space",
+        "date": "2021/06",
+        "venue": "IEEE TPAMI",
+        "paper_info": [
+            {
+                "name": "IEEE",
+                "link": "https://ieeexplore.ieee.org/abstract/document/9444850"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Grounded, Controllable and Debiased Image Completion with Lexical Semantics",
+        "date": "2021/06",
+        "venue": "CVPR (Causality in Vision Workshop)",
+        "paper_info": [
+            {
+                "name": "CvF",
+                "link": "https://openaccess.thecvf.com/content/CVPR2021W/CiV/papers/Zhang_Grounded_Controllable_and_Debiased_Image_Completion_With_Lexical_Semantics_CVPRW_2021_paper.pdf"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Learning by Planning: Language-Guided Global Image Editing",
+        "date": "2021/06",
+        "venue": "CVPR",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2106.13156"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/jshi31/T2ONet"
+            }
+        ]
+    },
+
+    {
+        "title": "Segmentation-Aware Text-Guided Image Manipulation",
+        "date": "2021/09",
+        "venue": "ICIP",
+        "paper_info": [
+            {
+                "name": "IEEE",
+                "link": "https://ieeexplore.ieee.org/abstract/document/9506601"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Talk-to-Edit: Fine-Grained Facial Editing via Dialog",
+        "date": "2021/09",
+        "venue": "ICCV",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2109.04425"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/yumingj/Talk-to-Edit"
+            }
+        ]
+    },
+
+    {
+        "title": "DiffusionCLIP: Text-guided Image Manipulation Using Diffusion Models",
+        "date": "2021/10",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2110.02711"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Language-Guided Global Image Editing via Cross-Modal Cyclic Mechanism",
+        "date": "2021/10",
+        "venue": "ICCV",
+        "paper_info": [
+            {
+                "name": "CvF",
+                "link": "https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Language-Guided_Global_Image_Editing_via_Cross-Modal_Cyclic_Mechanism_ICCV_2021_paper.pdf"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Each Attribute Matters: Contrastive Attention for Sentence-based Image Editing",
+        "date": "2021/10",
+        "venue": "BMVC",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2110.11159"
+            }
+        ],
+        "code": [
+            {
+                "name": "(Official)",
+                "link": "https://github.com/Zlq2021/CA-GAN"
             }
         ]
     }

@@ -77,7 +77,16 @@ the first preprint release date.
 |2020/10|A Benchmark and Baseline for Language-Driven Image Editing|ACCV|N/A|[arXiv](https://arxiv.org/abs/2010.02330)|[- (Official)](https://github.com/jshi31/LDIE_ACCV)<br> ![](https://img.shields.io/github/stars/jshi31/LDIE_ACCV.svg?style=social)|
 |2020/12|TediGAN: Text-Guided Diverse Face Image Generation and Manipulation|CVPR|N/A|[arXiv](https://arxiv.org/abs/2012.03308)|[PyTorch (Official)](https://github.com/IIGROUP/TediGAN)<br> ![](https://img.shields.io/github/stars/IIGROUP/TediGAN.svg?style=social)|
 |2021/02|Zero-Shot Text-to-Image Generation|-|N/A|[arXiv](https://arxiv.org/abs/2102.12092)|[PyTorch (Official)](https://github.com/openai/DALL-E)<br> ![](https://img.shields.io/github/stars/openai/DALL-E.svg?style=social)|
-|2021/03|StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery|-|N/A|[arXiv](https://arxiv.org/abs/2103.17249)|[PyTorch (Official)](https://github.com/orpatashnik/StyleCLIP)<br> ![](https://img.shields.io/github/stars/orpatashnik/StyleCLIP.svg?style=social)|
+|2021/03|StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery|ICCV|N/A|[arXiv](https://arxiv.org/abs/2103.17249)|[PyTorch (Official)](https://github.com/orpatashnik/StyleCLIP)<br> ![](https://img.shields.io/github/stars/orpatashnik/StyleCLIP.svg?style=social)|
+|2021/03|Text-Guided Style Transfer-Based Image Manipulation Using Multimodal Generative Models|IEEE TPAMI|N/A|[IEEE](https://ieeexplore.ieee.org/abstract/document/9389731)|-|
+|2021/06|Text-Guided Human Image Manipulation via Image-Text Shared Space|IEEE TPAMI|N/A|[IEEE](https://ieeexplore.ieee.org/abstract/document/9444850)|-|
+|2021/06|Grounded, Controllable and Debiased Image Completion with Lexical Semantics|CVPR (Causality in Vision Workshop)|N/A|[CvF](https://openaccess.thecvf.com/content/CVPR2021W/CiV/papers/Zhang_Grounded_Controllable_and_Debiased_Image_Completion_With_Lexical_Semantics_CVPRW_2021_paper.pdf)|-|
+|2021/06|Learning by Planning: Language-Guided Global Image Editing|CVPR|N/A|[arXiv](https://arxiv.org/abs/2106.13156)|[PyTorch (Official)](https://github.com/jshi31/T2ONet)<br> ![](https://img.shields.io/github/stars/jshi31/T2ONet.svg?style=social)|
+|2021/09|Segmentation-Aware Text-Guided Image Manipulation|ICIP|N/A|[IEEE](https://ieeexplore.ieee.org/abstract/document/9506601)|-|
+|2021/09|Talk-to-Edit: Fine-Grained Facial Editing via Dialog|ICCV|N/A|[arXiv](https://arxiv.org/abs/2109.04425)|[PyTorch (Official)](https://github.com/yumingj/Talk-to-Edit)<br> ![](https://img.shields.io/github/stars/yumingj/Talk-to-Edit.svg?style=social)|
+|2021/10|DiffusionCLIP: Text-guided Image Manipulation Using Diffusion Models|-|N/A|[arXiv](https://arxiv.org/abs/2110.02711)|-|
+|2021/10|Language-Guided Global Image Editing via Cross-Modal Cyclic Mechanism|ICCV|N/A|[CvF](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Language-Guided_Global_Image_Editing_via_Cross-Modal_Cyclic_Mechanism_ICCV_2021_paper.pdf)|-|
+|2021/10|Each Attribute Matters: Contrastive Attention for Sentence-based Image Editing|BMVC|N/A|[arXiv](https://arxiv.org/abs/2110.11159)|[(Official)](https://github.com/Zlq2021/CA-GAN)<br> ![](https://img.shields.io/github/stars/Zlq2021/CA-GAN.svg?style=social)|
 
 
 ## Contributing
