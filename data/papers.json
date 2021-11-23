@@ -1061,6 +1061,24 @@
                 "link": "https://github.com/Zlq2021/CA-GAN"
             }
         ]
+    },
+
+    {
+        "title": "LatteGAN: Visually Guided Language Attention for Multi-Turn Text-Conditioned Image Manipulation",
+        "date": "2021/11",
+        "venue": "IEEE Access",
+        "paper_info": [
+            {
+                "name": "IEEE",
+                "link": "https://ieeexplore.ieee.org/abstract/document/9620071"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/smatsumori/LatteGAN"
+            }
+        ]
     }
 
 ]

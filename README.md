@@ -87,6 +87,7 @@ the first preprint release date.
 |2021/10|DiffusionCLIP: Text-guided Image Manipulation Using Diffusion Models|-|N/A|[arXiv](https://arxiv.org/abs/2110.02711)|-|
 |2021/10|Language-Guided Global Image Editing via Cross-Modal Cyclic Mechanism|ICCV|N/A|[CvF](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Language-Guided_Global_Image_Editing_via_Cross-Modal_Cyclic_Mechanism_ICCV_2021_paper.pdf)|-|
 |2021/10|Each Attribute Matters: Contrastive Attention for Sentence-based Image Editing|BMVC|N/A|[arXiv](https://arxiv.org/abs/2110.11159)|[(Official)](https://github.com/Zlq2021/CA-GAN)<br> ![](https://img.shields.io/github/stars/Zlq2021/CA-GAN.svg?style=social)|
+|2021/11|LatteGAN: Visually Guided Language Attention for Multi-Turn Text-Conditioned Image Manipulation|IEEE Access|N/A|[IEEE](https://ieeexplore.ieee.org/abstract/document/9620071)|[PyTorch (Official)](https://github.com/smatsumori/LatteGAN)<br> ![](https://img.shields.io/github/stars/smatsumori/LatteGAN.svg?style=social)|
 
 
 ## Contributing
