@@ -88,6 +88,8 @@ the first preprint release date.
 |2021/10|Language-Guided Global Image Editing via Cross-Modal Cyclic Mechanism|ICCV|N/A|[CvF](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Language-Guided_Global_Image_Editing_via_Cross-Modal_Cyclic_Mechanism_ICCV_2021_paper.pdf)|-|
 |2021/10|Each Attribute Matters: Contrastive Attention for Sentence-based Image Editing|BMVC|N/A|[arXiv](https://arxiv.org/abs/2110.11159)|[(Official)](https://github.com/Zlq2021/CA-GAN)<br> ![](https://img.shields.io/github/stars/Zlq2021/CA-GAN.svg?style=social)|
 |2021/11|LatteGAN: Visually Guided Language Attention for Multi-Turn Text-Conditioned Image Manipulation|IEEE Access|N/A|[IEEE](https://ieeexplore.ieee.org/abstract/document/9620071)|[PyTorch (Official)](https://github.com/smatsumori/LatteGAN)<br> ![](https://img.shields.io/github/stars/smatsumori/LatteGAN.svg?style=social)|
+|2021/11|Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model|-|N/A|[arXiv](https://arxiv.org/abs/2111.13333)|-|
+|2021/11|Blended Diffusion for Text-driven Editing of Natural Images|-|N/A|[arXiv](https://arxiv.org/abs/2111.14818)|[PyTorch (Official)](https://github.com/omriav/blended-diffusion)<br> ![](https://img.shields.io/github/stars/omriav/blended-diffusion.svg?style=social)|
 
 
 ## Contributing

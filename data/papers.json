@@ -1079,6 +1079,42 @@
                 "link": "https://github.com/smatsumori/LatteGAN"
             }
         ]
+    },
+
+    {
+        "title": "Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model",
+        "date": "2021/11",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2111.13333"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Blended Diffusion for Text-driven Editing of Natural Images",
+        "date": "2021/11",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2111.14818"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/omriav/blended-diffusion"
+            }
+        ]
     }
 
 ]
