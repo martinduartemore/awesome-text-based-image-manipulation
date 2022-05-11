@@ -1115,6 +1115,330 @@
                 "link": "https://github.com/omriav/blended-diffusion"
             }
         ]
+    },
+
+    {
+        "title": "CLIPstyler: Image Style Transfer with a Single Text Condition",
+        "date": "2021/12",
+        "venue": "CVPR",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2112.00374"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/cyclomon/CLIPstyler"
+            }
+        ]
+    },
+
+    {
+        "title": "Embedding Arithmetic for Text-driven Image Transformation",
+        "date": "2021/12",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2112.03162"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/facebookresearch/SIMAT"
+            }
+        ]
+    },
+
+    {
+        "title": "CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields",
+        "date": "2021/12",
+        "venue": "CVPR",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2112.05139"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/cassiePython/CLIPNeRF"
+            }
+        ]
+    },
+
+    {
+        "title": "HairCLIP: Design Your Hair by Text and Reference Image",
+        "date": "2021/12",
+        "venue": "CVPR",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2112.05142"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/wty-ustc/HairCLIP"
+            }
+        ]
+    },
+
+    {
+        "title": "More Control for Free! Image Synthesis with Semantic Diffusion Guidance",
+        "date": "2021/12",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2112.05744"
+            }
+        ],
+        "code": [
+            {
+                "name": "- (Official)",
+                "link": "https://xh-liu.github.io/sdg/"
+            }
+        ]
+    },
+
+    {
+        "title": "StyleMC: Multi-Channel Based Fast Text-Guided Image Generation and Manipulation",
+        "date": "2021/12",
+        "venue": "WACV",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2112.08493"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/catlab-team/stylemc"
+            }
+        ]
+    },
+
+    {
+        "title": "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models",
+        "date": "2021/12",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2112.08493"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/openai/glide-text2im"
+            }
+        ]
+    },
+
+    {
+        "title": "Generative Adversarial Network for Text-to-Face Synthesis and Manipulation with Pretrained BERT Model",
+        "date": "2021/12",
+        "venue": "IEEE FG",
+        "paper_info": [
+            {
+                "name": "IEEE",
+                "link": "https://ieeexplore.ieee.org/abstract/document/9666791"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "FEAT: Face Editing with Attention",
+        "date": "2022/02",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2202.02713"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Learning by Imagination: A Joint Framework for Text-based Image Manipulation and Change Captioning",
+        "date": "2022/02",
+        "venue": "IEEE Transactions on Multimedia",
+        "paper_info": [
+            {
+                "name": "IEEE",
+                "link": "https://ieeexplore.ieee.org/abstract/document/9720958"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Name Your Style: An Arbitrary Artist-aware Image Style Transfer",
+        "date": "2022/02",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2202.13562"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "FlexIT: Towards Flexible Semantic Image Translation",
+        "date": "2022/03",
+        "venue": "CVPR",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2203.04705"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Interactive Image Generation with Natural-Language Feedback",
+        "date": "2022/02",
+        "venue": "AAAI",
+        "paper_info": [
+            {
+                "name": "AAAI",
+                "link": "https://aaai-2022.virtualchair.net/poster_aaai7081"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "EnvEdit: Environment Editing for Vision-and-Language Navigation",
+        "date": "2022/03",
+        "venue": "CVPR",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2203.15685"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/jialuli-luka/EnvEdit"
+            }
+        ]
+    },
+
+    {
+        "title": "AnyFace: Free-style Text-to-Face Synthesis and Manipulation",
+        "date": "2022/03",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2203.15334"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Paired-D++ GAN for image manipulation with text",
+        "date": "2022/04",
+        "venue": "Machine Vision and Applications",
+        "paper_info": [
+            {
+                "name": "Springer",
+                "link": "https://link.springer.com/article/10.1007/s00138-022-01298-7"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "ManiTrans: Entity-Level Text-Guided Image Manipulation via Token-wise Semantic Alignment and Generation",
+        "date": "2022/04",
+        "venue": "CVPR",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2204.04428"
+            }
+        ],
+        "code": [
+            {
+                "name": "- (Official)",
+                "link": "https://jawang19.github.io/manitrans/"
+            }
+        ]
+    },
+
+    {
+        "title": "Generative Adversarial Network Including Referring Image Segmentation For Text-Guided Image Manipulation",
+        "date": "2022/05",
+        "venue": "ICASSP",
+        "paper_info": [
+            {
+                "name": "IEEE",
+                "link": "https://ieeexplore.ieee.org/abstract/document/9746970"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
     }
 
 ]

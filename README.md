@@ -90,6 +90,24 @@ the first preprint release date.
 |2021/11|LatteGAN: Visually Guided Language Attention for Multi-Turn Text-Conditioned Image Manipulation|IEEE Access|N/A|[IEEE](https://ieeexplore.ieee.org/abstract/document/9620071)|[PyTorch (Official)](https://github.com/smatsumori/LatteGAN)<br> ![](https://img.shields.io/github/stars/smatsumori/LatteGAN.svg?style=social)|
 |2021/11|Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model|-|N/A|[arXiv](https://arxiv.org/abs/2111.13333)|-|
 |2021/11|Blended Diffusion for Text-driven Editing of Natural Images|-|N/A|[arXiv](https://arxiv.org/abs/2111.14818)|[PyTorch (Official)](https://github.com/omriav/blended-diffusion)<br> ![](https://img.shields.io/github/stars/omriav/blended-diffusion.svg?style=social)|
+|2021/12|CLIPstyler: Image Style Transfer with a Single Text Condition|CVPR|N/A|[arXiv](https://arxiv.org/abs/2112.00374)|[PyTorch (Official)](https://github.com/cyclomon/CLIPstyler)<br> ![](https://img.shields.io/github/stars/cyclomon/CLIPstyler.svg?style=social)|
+|2021/12|Embedding Arithmetic for Text-driven Image Transformation|-|N/A|[arXiv](https://arxiv.org/abs/2112.03162)|[PyTorch (Official)](https://github.com/facebookresearch/SIMAT)<br> ![](https://img.shields.io/github/stars/facebookresearch/SIMAT.svg?style=social)|
+|2021/12|CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields|CVPR|N/A|[arXiv](https://arxiv.org/abs/2112.05139)|[PyTorch (Official)](https://github.com/cassiePython/CLIPNeRF)<br> ![](https://img.shields.io/github/stars/cassiePython/CLIPNeRF.svg?style=social)|
+|2021/12|HairCLIP: Design Your Hair by Text and Reference Image|CVPR|N/A|[arXiv](https://arxiv.org/abs/2112.05142)|[PyTorch (Official)](https://github.com/wty-ustc/HairCLIP)<br> ![](https://img.shields.io/github/stars/wty-ustc/HairCLIP.svg?style=social)|
+|2021/12|More Control for Free! Image Synthesis with Semantic Diffusion Guidance|-|N/A|[arXiv](https://arxiv.org/abs/2112.05744)|[- (Official)](https://xh-liu.github.io/sdg/)<br> ![](https://img.shields.io/github/stars/sdg/.svg?style=social)|
+|2021/12|StyleMC: Multi-Channel Based Fast Text-Guided Image Generation and Manipulation|WACV|N/A|[arXiv](https://arxiv.org/abs/2112.08493)|[PyTorch (Official)](https://github.com/catlab-team/stylemc)<br> ![](https://img.shields.io/github/stars/catlab-team/stylemc.svg?style=social)|
+|2021/12|GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models|-|N/A|[arXiv](https://arxiv.org/abs/2112.08493)|[PyTorch (Official)](https://github.com/openai/glide-text2im)<br> ![](https://img.shields.io/github/stars/openai/glide-text2im.svg?style=social)|
+|2021/12|Generative Adversarial Network for Text-to-Face Synthesis and Manipulation with Pretrained BERT Model|IEEE FG|N/A|[IEEE](https://ieeexplore.ieee.org/abstract/document/9666791)|-|
+|2022/02|FEAT: Face Editing with Attention|-|N/A|[arXiv](https://arxiv.org/abs/2202.02713)|-|
+|2022/02|Learning by Imagination: A Joint Framework for Text-based Image Manipulation and Change Captioning|IEEE Transactions on Multimedia|N/A|[IEEE](https://ieeexplore.ieee.org/abstract/document/9720958)|-|
+|2022/02|Name Your Style: An Arbitrary Artist-aware Image Style Transfer|-|N/A|[arXiv](https://arxiv.org/abs/2202.13562)|-|
+|2022/02|Interactive Image Generation with Natural-Language Feedback|AAAI|N/A|[AAAI](https://aaai-2022.virtualchair.net/poster_aaai7081)|-|
+|2022/03|FlexIT: Towards Flexible Semantic Image Translation|CVPR|N/A|[arXiv](https://arxiv.org/abs/2203.04705)|-|
+|2022/03|EnvEdit: Environment Editing for Vision-and-Language Navigation|CVPR|N/A|[arXiv](https://arxiv.org/abs/2203.15685)|[PyTorch (Official)](https://github.com/jialuli-luka/EnvEdit)<br> ![](https://img.shields.io/github/stars/jialuli-luka/EnvEdit.svg?style=social)|
+|2022/03|AnyFace: Free-style Text-to-Face Synthesis and Manipulation|-|N/A|[arXiv](https://arxiv.org/abs/2203.15334)|-|
+|2022/04|Paired-D++ GAN for image manipulation with text|Machine Vision and Applications|N/A|[Springer](https://link.springer.com/article/10.1007/s00138-022-01298-7)|-|
+|2022/04|ManiTrans: Entity-Level Text-Guided Image Manipulation via Token-wise Semantic Alignment and Generation|CVPR|N/A|[arXiv](https://arxiv.org/abs/2204.04428)|[- (Official)](https://jawang19.github.io/manitrans/)<br> ![](https://img.shields.io/github/stars/manitrans/.svg?style=social)|
+|2022/05|Generative Adversarial Network Including Referring Image Segmentation For Text-Guided Image Manipulation|ICASSP|N/A|[IEEE](https://ieeexplore.ieee.org/abstract/document/9746970)|-|
 
 
 ## Contributing
