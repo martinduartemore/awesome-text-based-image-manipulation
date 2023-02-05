@@ -30,7 +30,7 @@ the first preprint release date.
 |Date|Title|Venue|Citations|Paper|Code|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2023/01|Muse: Text-To-Image Generation via Masked Generative Transformers|-|N/A|[arXiv](https://arxiv.org/abs/2301.00704)<br>[Project Page](https://muse-model.github.io/)|[PyTorch](https://github.com/lucidrains/muse-maskgit-pytorch)<br> ![](https://img.shields.io/github/stars/lucidrains/muse-maskgit-pytorch.svg?style=social)|
-|2023/01|FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion|-|N/A|[arXiv](https://arxiv.org/abs/2301.02110)|[PyTorch](https://github.com/lucidrains/muse-maskgit-pytorch)<br> ![](https://img.shields.io/github/stars/lucidrains/muse-maskgit-pytorch.svg?style=social)|
+|2023/01|FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion|-|N/A|[arXiv](https://arxiv.org/abs/2301.02110)|-|
 |2023/01|SEGA: Instructing Diffusion using Semantic Dimensions|-|N/A|[arXiv](https://arxiv.org/abs/2301.12247)|-|
 |2022/12|CLIPVG: Text-Guided Image Manipulation Using Differentiable Vector Graphics|AAAI|N/A|[arXiv](https://arxiv.org/abs/2212.02122)|[PyTorch (Official)](https://github.com/NetEase-GameAI/clipvg)<br> ![](https://img.shields.io/github/stars/NetEase-GameAI/clipvg.svg?style=social)|
 |2022/12|SINE: SINgle Image Editing with Text-to-Image Diffusion Models|-|N/A|[arXiv](https://arxiv.org/abs/2212.04489)|[PyTorch (Official)](https://github.com/zhang-zx/SINE)<br> ![](https://img.shields.io/github/stars/zhang-zx/SINE.svg?style=social)|
