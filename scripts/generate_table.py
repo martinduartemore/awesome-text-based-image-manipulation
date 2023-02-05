@@ -6,7 +6,7 @@ import re
 def generate_table_papers():
     with open('./data/papers.json') as f:
         papers = json.load(f)
-    papers = sorted(papers, key=lambda k: k['date'])
+    papers = sorted(papers, key=lambda k: k['date'], reverse=True)
 
     header = ['|Date|Title|Venue|Citations|Paper|Code|']
     header.append(re.sub(r'(?<=\|).*?(?=\|)', ':---:', header[0]))
