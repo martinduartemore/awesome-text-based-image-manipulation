@@ -1010,9 +1010,9 @@
     },
 
     {
-        "title": "DiffusionCLIP: Text-guided Image Manipulation Using Diffusion Models",
+        "title": "DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation",
         "date": "2021/10",
-        "venue": "-",
+        "venue": "CVPR",
         "paper_info": [
             {
                 "name": "arXiv",
@@ -1021,8 +1021,8 @@
         ],
         "code": [
             {
-                "name": "-",
-                "link": "-"
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/gwang-kim/DiffusionCLIP"
             }
         ]
     },
@@ -1431,6 +1431,682 @@
             {
                 "name": "IEEE",
                 "link": "https://ieeexplore.ieee.org/abstract/document/9746970"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "AnyFace: Free-style Text-to-Face Synthesis and Manipulation",
+        "date": "2022/03",
+        "venue": "CVPR",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2203.15334"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "DE-Net: Dynamic Text-guided Image Editing Adversarial Networks",
+        "date": "2022/06",
+        "venue": "AAAI",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2206.01160"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/tobran/DE-Net"
+            }
+        ]
+    },
+
+    {
+        "title": "DE-Net: Dynamic Text-guided Image Editing Adversarial Networks",
+        "date": "2022/06",
+        "venue": "AAAI",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2206.01160"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/tobran/DE-Net"
+            }
+        ]
+    },
+
+    {
+        "title": "SpaceEdit: Learning a Unified Editing Space for Open-Domain Image Editing",
+        "date": "2021/11",
+        "venue": "CVPR",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2112.00180"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Towards Counterfactual Image Manipulation via CLIP",
+        "date": "2022/07",
+        "venue": "ACMMM",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2207.02812"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/yingchen001/CF-CLIP"
+            }
+        ]
+    },
+
+    {
+        "title": "Cross-modal Representation Learning and Relation Reasoning for Bidirectional Adaptive Manipulation ",
+        "date": "2022/07",
+        "venue": "IJCAI",
+        "paper_info": [
+            {
+                "name": "IJCAI",
+                "link": "https://www.ijcai.org/proceedings/2022/447"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Prompt-to-Prompt Image Editing with Cross Attention Control",
+        "date": "2022/08",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2208.01626"
+            },
+            {
+                "name": "Official Page",
+                "link": "https://prompt-to-prompt.github.io/"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/google/prompt-to-prompt/"
+            }
+        ]
+    },
+
+    {
+        "title": "Null-text Inversion for Editing Real Images using Guided Diffusion Models",
+        "date": "2022/11",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2211.09794"
+            },
+            {
+                "name": "Official Page",
+                "link": "https://null-text-inversion.github.io/"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images"
+            }
+        ]
+    },
+
+    {
+        "title": "InstructPix2Pix: Learning to Follow Image Editing Instructions",
+        "date": "2022/11",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2211.09800"
+            },
+            {
+                "name": "Official Page",
+                "link": "https://www.timothybrooks.com/instruct-pix2pix"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/timothybrooks/instruct-pix2pix"
+            }
+        ]
+    },
+
+    {
+        "title": "Language-based Image Manipulation Built on Language-Guided Ranking",
+        "date": "2022/09",
+        "venue": "IEEE Transactions on Multimedia",
+        "paper_info": [
+            {
+                "name": "IEEE",
+                "link": "https://ieeexplore.ieee.org/abstract/document/9893379"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "ManiCLIP: Multi-Attribute Face Manipulation from Text",
+        "date": "2022/10",
+        "venue": "",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2210.00445"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "StyleGAN-based CLIP-guided Image Shape Manipulation",
+        "date": "2022/09",
+        "venue": "CBMI",
+        "paper_info": [
+            {
+                "name": "ACM",
+                "link": "https://dl.acm.org/doi/abs/10.1145/3549555.3549556"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Towards Open-Ended Text-to-Face Generation, Combination and Manipulation",
+        "date": "2022/10",
+        "venue": "ACMMM",
+        "paper_info": [
+            {
+                "name": "ACM",
+                "link": "https://dl.acm.org/doi/abs/10.1145/3503161.3547758"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable, and Controllable Text-Guided Image Manipulation",
+        "date": "2022/10",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2210.03919"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulation",
+        "date": "2022/10",
+        "venue": "NeurIPS",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2210.07883"
+            }
+        ],
+        "code": [
+            {
+                "name": "- (Official)",
+                "link": "https://github.com/KumapowerLIU/FFCLIP"
+            }
+        ]
+    },
+
+    {
+        "title": "Imagic: Text-Based Real Image Editing with Diffusion Models",
+        "date": "2022/10",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2210.09276"
+            },
+            {
+                "name": "Official Page",
+                "link": "https://imagic-editing.github.io/"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Assessment of Image Manipulation Using Natural Language Description: Quantification of Manipulation Direction",
+        "date": "2022/10",
+        "venue": "ICIP",
+        "paper_info": [
+            {
+                "name": "IEEE",
+                "link": "https://ieeexplore.ieee.org/abstract/document/9897900"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance",
+        "date": "2022/04",
+        "venue": "ECCV",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2204.08583"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/EleutherAI/vqgan-clip"
+            }
+        ]
+    },
+
+    {
+        "title": "Referring Object Manipulation of Natural Images with Conditional Classifier-free Guidance",
+        "date": "2022/04",
+        "venue": "ECCV",
+        "paper_info": [
+            {
+                "name": "ECVA",
+                "link": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960619.pdf"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/google/referring-manipulation"
+            }
+        ]
+    },
+
+    {
+        "title": "Text2LIVE: Text-Driven Layered Image and Video Editing",
+        "date": "2022/04",
+        "venue": "ECCV",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2204.02491"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/omerbt/Text2LIVE"
+            }
+        ]
+    },
+
+    {
+        "title": "DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization",
+        "date": "2022/11",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2211.10682"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Interactive Image Manipulation with Complex Text Instructions",
+        "date": "2022/11",
+        "venue": "WACV",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2211.15352"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Target-Free Text-guided Image Manipulation",
+        "date": "2022/11",
+        "venue": "AAAI",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2211.14544"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "LDEdit: Towards Generalized Text Guided Image Manipulation via Latent Diffusion Models",
+        "date": "2022/10",
+        "venue": "BMVC",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2210.02249"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "CLIPVG: Text-Guided Image Manipulation Using Differentiable Vector Graphics",
+        "date": "2022/12",
+        "venue": "AAAI",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2212.02122"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/NetEase-GameAI/clipvg"
+            }
+        ]
+    },
+
+    {
+        "title": "SINE: SINgle Image Editing with Text-to-Image Diffusion Models",
+        "date": "2022/12",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2212.04489"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/zhang-zx/SINE"
+            }
+        ]
+    },
+
+    {
+        "title": "Muse: Text-To-Image Generation via Masked Generative Transformers",
+        "date": "2023/01",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2301.00704"
+            },
+            {
+                "name": "Project Page",
+                "link": "https://muse-model.github.io/"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch",
+                "link": "https://github.com/lucidrains/muse-maskgit-pytorch"
+            }
+        ]
+    },
+
+    {
+        "title": "FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion",
+        "date": "2023/01",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2301.02110"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch",
+                "link": "https://github.com/lucidrains/muse-maskgit-pytorch"
+            }
+        ]
+    },
+
+    {
+        "title": "UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image",
+        "date": "2022/10",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2210.09477"
+            }
+        ],
+        "code": [
+            {
+                "name": "PyTorch",
+                "link": "https://github.com/xuduo35/UniTune"
+            }
+        ]
+    },
+
+    {
+        "title": "DiffEdit: Diffusion-based semantic image editing with mask guidance",
+        "date": "2022/10",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2210.11427"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Bridging CLIP and StyleGAN through Latent Alignment for Image Editing",
+        "date": "2022/10",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2210.04506"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models",
+        "date": "2022/11",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2211.07825"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation",
+        "date": "2022/11",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2211.12572"
+            },
+            {
+                "name": "Project Page",
+                "link": "https://pnp-diffusion.github.io/"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "SEGA: Instructing Diffusion using Semantic Dimensions",
+        "date": "2023/01",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2301.12247"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "The Stable Artist: Steering Semantics in Diffusion Latent Space",
+        "date": "2022/12",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2212.06013"
+            }
+        ],
+        "code": [
+            {
+                "name": "-",
+                "link": "-"
+            }
+        ]
+    },
+
+    {
+        "title": "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation",
+        "date": "2022/08",
+        "venue": "-",
+        "paper_info": [
+            {
+                "name": "arXiv",
+                "link": "https://arxiv.org/abs/2208.12242"
+            },
+            {
+                "name": "Project Page",
+                "link": "https://dreambooth.github.io/"
             }
         ],
         "code": [
