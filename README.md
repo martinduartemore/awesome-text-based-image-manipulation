@@ -1,16 +1,17 @@
-# awesome-text-based-image-manipulation [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Text-based Image Manipulation [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 A curated list of text-based image manipulation methods
 
 [![GitHub - LICENSE](https://img.shields.io/github/license/martinduartemore/awesome-text-based-image-manipulation)](./LICENSE)
 
-
 ## Table of Contents
+
 * [Datasets](#datasets)
 * [Papers](#papers)
 * [Contributing](#contributing)
 
-
 ## Datasets
+
 |Name|Links|
 |:---:|:---:|
 |102 Category Flower|[Images](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)<br>[Captions](https://github.com/reedscot/icml2016)|
@@ -19,7 +20,6 @@ A curated list of text-based image manipulation methods
 |DeepFashion|[Images](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/FashionSynthesis.html)<br>[Captions](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN)|
 |i-CLEVR|[Data](https://www.microsoft.com/en-us/research/project/generative-neural-visual-artist-geneva/)|
 |Multi-Modal-CelebA-HQ|[Data](https://github.com/IIGROUP/Multi-Modal-CelebA-HQ-Dataset)|
-
 
 ## Papers
 
@@ -55,10 +55,9 @@ the first preprint release date.
 |2022/09|Language-based Image Manipulation Built on Language-Guided Ranking|IEEE Transactions on Multimedia|N/A|[IEEE](https://ieeexplore.ieee.org/abstract/document/9893379)|-|
 |2022/09|StyleGAN-based CLIP-guided Image Shape Manipulation|CBMI|N/A|[ACM](https://dl.acm.org/doi/abs/10.1145/3549555.3549556)|-|
 |2022/08|Prompt-to-Prompt Image Editing with Cross Attention Control|-|N/A|[arXiv](https://arxiv.org/abs/2208.01626)<br>[Official Page](https://prompt-to-prompt.github.io/)|[PyTorch (Official)](https://github.com/google/prompt-to-prompt/)<br> ![](https://img.shields.io/github/stars/prompt-to-prompt/.svg?style=social)|
-|2022/08|DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation|-|N/A|[arXiv](https://arxiv.org/abs/2208.12242)<br>[Project Page](https://dreambooth.github.io/)|-|
+|2022/08|DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation|CVPR (2023)|N/A|[arXiv](https://arxiv.org/abs/2208.12242)<br>[Project Page](https://dreambooth.github.io/)|[Dataset (Official)](https://github.com/google/dreambooth)<br> ![](https://img.shields.io/github/stars/google/dreambooth.svg?style=social)<br>[PyTorch](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)<br> ![](https://img.shields.io/github/stars/XavierXiao/Dreambooth-Stable-Diffusion.svg?style=social)|
 |2022/07|Towards Counterfactual Image Manipulation via CLIP|ACMMM|N/A|[arXiv](https://arxiv.org/abs/2207.02812)|[PyTorch (Official)](https://github.com/yingchen001/CF-CLIP)<br> ![](https://img.shields.io/github/stars/yingchen001/CF-CLIP.svg?style=social)|
 |2022/07|Cross-modal Representation Learning and Relation Reasoning for Bidirectional Adaptive Manipulation |IJCAI|N/A|[IJCAI](https://www.ijcai.org/proceedings/2022/447)|-|
-|2022/06|DE-Net: Dynamic Text-guided Image Editing Adversarial Networks|AAAI|N/A|[arXiv](https://arxiv.org/abs/2206.01160)|[PyTorch (Official)](https://github.com/tobran/DE-Net)<br> ![](https://img.shields.io/github/stars/tobran/DE-Net.svg?style=social)|
 |2022/06|DE-Net: Dynamic Text-guided Image Editing Adversarial Networks|AAAI|N/A|[arXiv](https://arxiv.org/abs/2206.01160)|[PyTorch (Official)](https://github.com/tobran/DE-Net)<br> ![](https://img.shields.io/github/stars/tobran/DE-Net.svg?style=social)|
 |2022/05|Generative Adversarial Network Including Referring Image Segmentation For Text-Guided Image Manipulation|ICASSP|N/A|[IEEE](https://ieeexplore.ieee.org/abstract/document/9746970)|-|
 |2022/04|Paired-D++ GAN for image manipulation with text|Machine Vision and Applications|N/A|[Springer](https://link.springer.com/article/10.1007/s00138-022-01298-7)|-|
@@ -66,28 +65,27 @@ the first preprint release date.
 |2022/04|VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance|ECCV|N/A|[arXiv](https://arxiv.org/abs/2204.08583)|[PyTorch (Official)](https://github.com/EleutherAI/vqgan-clip)<br> ![](https://img.shields.io/github/stars/EleutherAI/vqgan-clip.svg?style=social)|
 |2022/04|Referring Object Manipulation of Natural Images with Conditional Classifier-free Guidance|ECCV|N/A|[ECVA](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960619.pdf)|[PyTorch (Official)](https://github.com/google/referring-manipulation)<br> ![](https://img.shields.io/github/stars/google/referring-manipulation.svg?style=social)|
 |2022/04|Text2LIVE: Text-Driven Layered Image and Video Editing|ECCV|N/A|[arXiv](https://arxiv.org/abs/2204.02491)|[PyTorch (Official)](https://github.com/omerbt/Text2LIVE)<br> ![](https://img.shields.io/github/stars/omerbt/Text2LIVE.svg?style=social)|
-|2022/03|FlexIT: Towards Flexible Semantic Image Translation|CVPR|N/A|[arXiv](https://arxiv.org/abs/2203.04705)|-|
+|2022/03|FlexIT: Towards Flexible Semantic Image Translation|CVPR|N/A|[arXiv](https://arxiv.org/abs/2203.04705)|[PyTorch (Official)](https://github.com/facebookresearch/SemanticImageTranslation)<br> ![](https://img.shields.io/github/stars/facebookresearch/SemanticImageTranslation.svg?style=social)|
 |2022/03|EnvEdit: Environment Editing for Vision-and-Language Navigation|CVPR|N/A|[arXiv](https://arxiv.org/abs/2203.15685)|[PyTorch (Official)](https://github.com/jialuli-luka/EnvEdit)<br> ![](https://img.shields.io/github/stars/jialuli-luka/EnvEdit.svg?style=social)|
-|2022/03|AnyFace: Free-style Text-to-Face Synthesis and Manipulation|-|N/A|[arXiv](https://arxiv.org/abs/2203.15334)|-|
 |2022/03|AnyFace: Free-style Text-to-Face Synthesis and Manipulation|CVPR|N/A|[arXiv](https://arxiv.org/abs/2203.15334)|-|
-|2022/02|FEAT: Face Editing with Attention|-|N/A|[arXiv](https://arxiv.org/abs/2202.02713)|-|
+|2022/02|FEAT: Face Editing with Attention|-|N/A|[arXiv](https://arxiv.org/abs/2202.02713)|[PyTorch](https://github.com/Psarpei/GanVinci)<br> ![](https://img.shields.io/github/stars/Psarpei/GanVinci.svg?style=social)|
 |2022/02|Learning by Imagination: A Joint Framework for Text-based Image Manipulation and Change Captioning|IEEE Transactions on Multimedia|N/A|[IEEE](https://ieeexplore.ieee.org/abstract/document/9720958)|-|
-|2022/02|Name Your Style: An Arbitrary Artist-aware Image Style Transfer|-|N/A|[arXiv](https://arxiv.org/abs/2202.13562)|-|
+|2022/02|Name Your Style: An Arbitrary Artist-aware Image Style Transfer|CVPR (2023, Workshop)|N/A|[arXiv](https://arxiv.org/abs/2202.13562)<br>[CvF](https://openaccess.thecvf.com/content/CVPR2023W/CVFAD/papers/Liu_Name_Your_Style_Text-Guided_Artistic_Style_Transfer_CVPRW_2023_paper.pdf)|[PyTorch (Official)](https://github.com/Holmes-Alan/TxST)<br> ![](https://img.shields.io/github/stars/Holmes-Alan/TxST.svg?style=social)|
 |2022/02|Interactive Image Generation with Natural-Language Feedback|AAAI|N/A|[AAAI](https://aaai-2022.virtualchair.net/poster_aaai7081)|-|
 |2021/12|CLIPstyler: Image Style Transfer with a Single Text Condition|CVPR|N/A|[arXiv](https://arxiv.org/abs/2112.00374)|[PyTorch (Official)](https://github.com/cyclomon/CLIPstyler)<br> ![](https://img.shields.io/github/stars/cyclomon/CLIPstyler.svg?style=social)|
-|2021/12|Embedding Arithmetic for Text-driven Image Transformation|-|N/A|[arXiv](https://arxiv.org/abs/2112.03162)|[PyTorch (Official)](https://github.com/facebookresearch/SIMAT)<br> ![](https://img.shields.io/github/stars/facebookresearch/SIMAT.svg?style=social)|
+|2021/12|Embedding Arithmetic for Text-driven Image Transformation|CVPR (2022, O-DRUM Workshop)|N/A|[arXiv](https://arxiv.org/abs/2112.03162)<br>[CvF](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/papers/Couairon_Embedding_Arithmetic_of_Multimodal_Queries_for_Image_Retrieval_CVPRW_2022_paper.pdf)|[PyTorch (Official)](https://github.com/facebookresearch/SIMAT)<br> ![](https://img.shields.io/github/stars/facebookresearch/SIMAT.svg?style=social)|
 |2021/12|CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields|CVPR|N/A|[arXiv](https://arxiv.org/abs/2112.05139)|[PyTorch (Official)](https://github.com/cassiePython/CLIPNeRF)<br> ![](https://img.shields.io/github/stars/cassiePython/CLIPNeRF.svg?style=social)|
 |2021/12|HairCLIP: Design Your Hair by Text and Reference Image|CVPR|N/A|[arXiv](https://arxiv.org/abs/2112.05142)|[PyTorch (Official)](https://github.com/wty-ustc/HairCLIP)<br> ![](https://img.shields.io/github/stars/wty-ustc/HairCLIP.svg?style=social)|
-|2021/12|More Control for Free! Image Synthesis with Semantic Diffusion Guidance|-|N/A|[arXiv](https://arxiv.org/abs/2112.05744)|[- (Official)](https://xh-liu.github.io/sdg/)<br> ![](https://img.shields.io/github/stars/sdg/.svg?style=social)|
+|2021/12|More Control for Free! Image Synthesis with Semantic Diffusion Guidance|WACV (2023)|N/A|[arXiv](https://arxiv.org/abs/2112.05744)|[PyTorch (Official)](https://github.com/xh-liu/SDG_code/)<br> ![](https://img.shields.io/github/stars/SDG_code/.svg?style=social)|
 |2021/12|StyleMC: Multi-Channel Based Fast Text-Guided Image Generation and Manipulation|WACV|N/A|[arXiv](https://arxiv.org/abs/2112.08493)|[PyTorch (Official)](https://github.com/catlab-team/stylemc)<br> ![](https://img.shields.io/github/stars/catlab-team/stylemc.svg?style=social)|
-|2021/12|GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models|-|N/A|[arXiv](https://arxiv.org/abs/2112.08493)|[PyTorch (Official)](https://github.com/openai/glide-text2im)<br> ![](https://img.shields.io/github/stars/openai/glide-text2im.svg?style=social)|
+|2021/12|GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models|ICML (2022)|N/A|[arXiv](https://arxiv.org/abs/2112.08493)<br>[MLR](https://proceedings.mlr.press/v162/nichol22a/nichol22a.pdf)|[PyTorch (Official)](https://github.com/openai/glide-text2im)<br> ![](https://img.shields.io/github/stars/openai/glide-text2im.svg?style=social)|
 |2021/12|Generative Adversarial Network for Text-to-Face Synthesis and Manipulation with Pretrained BERT Model|IEEE FG|N/A|[IEEE](https://ieeexplore.ieee.org/abstract/document/9666791)|-|
 |2021/11|LatteGAN: Visually Guided Language Attention for Multi-Turn Text-Conditioned Image Manipulation|IEEE Access|N/A|[IEEE](https://ieeexplore.ieee.org/abstract/document/9620071)|[PyTorch (Official)](https://github.com/smatsumori/LatteGAN)<br> ![](https://img.shields.io/github/stars/smatsumori/LatteGAN.svg?style=social)|
-|2021/11|Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model|-|N/A|[arXiv](https://arxiv.org/abs/2111.13333)|-|
-|2021/11|Blended Diffusion for Text-driven Editing of Natural Images|-|N/A|[arXiv](https://arxiv.org/abs/2111.14818)|[PyTorch (Official)](https://github.com/omriav/blended-diffusion)<br> ![](https://img.shields.io/github/stars/omriav/blended-diffusion.svg?style=social)|
+|2021/11|Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model|CVPR (2022)|N/A|[arXiv](https://arxiv.org/abs/2111.13333)|[PaddlePaddle (Official)](https://github.com/zipengxuc/ppe)<br> ![](https://img.shields.io/github/stars/zipengxuc/ppe.svg?style=social)<br>[PyTorch (Official)](https://github.com/zipengxuc/PPE-Pytorch)<br> ![](https://img.shields.io/github/stars/zipengxuc/PPE-Pytorch.svg?style=social)|
+|2021/11|Blended Diffusion for Text-driven Editing of Natural Images|CVPR (2022)|N/A|[arXiv](https://arxiv.org/abs/2111.14818)<br>[CvF](https://openaccess.thecvf.com/content/CVPR2022/papers/Avrahami_Blended_Diffusion_for_Text-Driven_Editing_of_Natural_Images_CVPR_2022_paper.pdf)|[PyTorch (Official)](https://github.com/omriav/blended-diffusion)<br> ![](https://img.shields.io/github/stars/omriav/blended-diffusion.svg?style=social)|
 |2021/11|SpaceEdit: Learning a Unified Editing Space for Open-Domain Image Editing|CVPR|N/A|[arXiv](https://arxiv.org/abs/2112.00180)|-|
 |2021/10|DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation|CVPR|N/A|[arXiv](https://arxiv.org/abs/2110.02711)|[PyTorch (Official)](https://github.com/gwang-kim/DiffusionCLIP)<br> ![](https://img.shields.io/github/stars/gwang-kim/DiffusionCLIP.svg?style=social)|
-|2021/10|Language-Guided Global Image Editing via Cross-Modal Cyclic Mechanism|ICCV|N/A|[CvF](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Language-Guided_Global_Image_Editing_via_Cross-Modal_Cyclic_Mechanism_ICCV_2021_paper.pdf)|-|
+|2021/10|Language-Guided Global Image Editing via Cross-Modal Cyclic Mechanism|ICCV|N/A|[CvF](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Language-Guided_Global_Image_Editing_via_Cross-Modal_Cyclic_Mechanism_ICCV_2021_paper.pdf)|[PyTorch (Official)](https://github.com/wtjiang98/Language_Guided_Image_Editing)<br> ![](https://img.shields.io/github/stars/wtjiang98/Language_Guided_Image_Editing.svg?style=social)|
 |2021/10|Each Attribute Matters: Contrastive Attention for Sentence-based Image Editing|BMVC|N/A|[arXiv](https://arxiv.org/abs/2110.11159)|[(Official)](https://github.com/Zlq2021/CA-GAN)<br> ![](https://img.shields.io/github/stars/Zlq2021/CA-GAN.svg?style=social)|
 |2021/09|Segmentation-Aware Text-Guided Image Manipulation|ICIP|N/A|[IEEE](https://ieeexplore.ieee.org/abstract/document/9506601)|-|
 |2021/09|Talk-to-Edit: Fine-Grained Facial Editing via Dialog|ICCV|N/A|[arXiv](https://arxiv.org/abs/2109.04425)|[PyTorch (Official)](https://github.com/yumingj/Talk-to-Edit)<br> ![](https://img.shields.io/github/stars/yumingj/Talk-to-Edit.svg?style=social)|
@@ -96,7 +94,7 @@ the first preprint release date.
 |2021/06|Learning by Planning: Language-Guided Global Image Editing|CVPR|N/A|[arXiv](https://arxiv.org/abs/2106.13156)|[PyTorch (Official)](https://github.com/jshi31/T2ONet)<br> ![](https://img.shields.io/github/stars/jshi31/T2ONet.svg?style=social)|
 |2021/03|StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery|ICCV|N/A|[arXiv](https://arxiv.org/abs/2103.17249)|[PyTorch (Official)](https://github.com/orpatashnik/StyleCLIP)<br> ![](https://img.shields.io/github/stars/orpatashnik/StyleCLIP.svg?style=social)|
 |2021/03|Text-Guided Style Transfer-Based Image Manipulation Using Multimodal Generative Models|IEEE TPAMI|N/A|[IEEE](https://ieeexplore.ieee.org/abstract/document/9389731)|-|
-|2021/02|Zero-Shot Text-to-Image Generation|-|N/A|[arXiv](https://arxiv.org/abs/2102.12092)|[PyTorch (Official)](https://github.com/openai/DALL-E)<br> ![](https://img.shields.io/github/stars/openai/DALL-E.svg?style=social)|
+|2021/02|Zero-Shot Text-to-Image Generation|ICML|N/A|[arXiv](https://arxiv.org/abs/2102.12092)<br>[MLR](https://proceedings.mlr.press/v139/ramesh21a.html)|[PyTorch (Official)](https://github.com/openai/DALL-E)<br> ![](https://img.shields.io/github/stars/openai/DALL-E.svg?style=social)|
 |2020/12|TediGAN: Text-Guided Diverse Face Image Generation and Manipulation|CVPR|N/A|[arXiv](https://arxiv.org/abs/2012.03308)|[PyTorch (Official)](https://github.com/IIGROUP/TediGAN)<br> ![](https://img.shields.io/github/stars/IIGROUP/TediGAN.svg?style=social)|
 |2020/10|Learning Cross-Modal Representations for Language-Based Image Manipulation|ICIP|N/A|[ResearchGate](https://www.researchgate.net/publication/341984406)|-|
 |2020/10|Text-Guided Image Inpainting|ACMMM|N/A|[ACM](https://dl.acm.org/doi/abs/10.1145/3394171.3413939)|-|
@@ -105,16 +103,16 @@ the first preprint release date.
 |2020/09|SSCR: Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning|EMNLP|N/A|[arXiv](https://arxiv.org/abs/2009.09566)|[PyTorch (Official)](https://github.com/tsujuifu/pytorch_sscr)<br> ![](https://img.shields.io/github/stars/tsujuifu/pytorch_sscr.svg?style=social)|
 |2020/08|Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach|ACMMM|N/A|[arXiv](https://arxiv.org/abs/2008.04200)|[PyTorch (Official)](https://github.com/yhlleo/DWC-GAN)<br> ![](https://img.shields.io/github/stars/yhlleo/DWC-GAN.svg?style=social)|
 |2020/08|Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions|ECCV|N/A|[arXiv](https://arxiv.org/abs/2008.01576)|[PyTorch (Official)](https://github.com/xh-liu/Open-Edit)<br> ![](https://img.shields.io/github/stars/xh-liu/Open-Edit.svg?style=social)|
-|2020/08|Text as Neural Operator: Image Manipulation by Text Instruction|-|N/A|[arXiv](https://arxiv.org/abs/2008.04556)|-|
-|2020/08|IR-GAN: Image Manipulation with Linguistic Instructionby Increment Reasoning|ACMMM|N/A|[ACM](https://dl.acm.org/doi/10.1145/3394171.3413777)|-|
+|2020/08|Text as Neural Operator: Image Manipulation by Text Instruction|ACMMM (2021)|N/A|[arXiv](https://arxiv.org/abs/2008.04556)<br>[ACM](https://dl.acm.org/doi/10.1145/3474085.3475343)|[PyTorch (Official)](https://github.com/google/tim-gan)<br> ![](https://img.shields.io/github/stars/google/tim-gan.svg?style=social)|
+|2020/08|IR-GAN: Image Manipulation with Linguistic Instructionby Increment Reasoning|ACMMM|N/A|[ACM](https://dl.acm.org/doi/10.1145/3394171.3413777)|[PyTorch (Official)](https://github.com/Victarry/IR-GAN-Code)<br> ![](https://img.shields.io/github/stars/Victarry/IR-GAN-Code.svg?style=social)|
 |2020/06|Customizable GAN: A Method for Image Synthesis of Human Controllable|IEEE Access|N/A|[IEEE](https://ieeexplore.ieee.org/document/9112217)|-|
-|2020/05|Scones: Towards Conversational Authoring of Sketches|IUI|N/A|[arXiv](https://arxiv.org/abs/2005.07781)|-|
+|2020/05|Scones: Towards Conversational Authoring of Sketches|IUI|N/A|[arXiv](https://arxiv.org/abs/2005.07781)|[TensorFlow (Official)](https://github.com/CannyLab/scones)<br> ![](https://img.shields.io/github/stars/CannyLab/scones.svg?style=social)|
 |2020/04|Text-Guided Neural Image Inpainting|ACMMM|N/A|[arXiv](https://arxiv.org/abs/2004.03212)|[PyTorch (Official)](https://github.com/idealwhite/TDANet)<br> ![](https://img.shields.io/github/stars/idealwhite/TDANet.svg?style=social)|
 |2020/02|FACT: Fused Attention for Clothing Transfer with Generative Adversarial Networks|AAAI|N/A|[AAAI](https://aaai.org/ojs/index.php/AAAI/article/view/6987/6841)|-|
 |2020/02|Grounded and Controllable Image Completion by Incorporating Lexical Semantics|-|N/A|[arXiv](https://arxiv.org/abs/2003.00303)|-|
 |2020/02|Image-to-Image Translation with Text Guidance|-|N/A|[arXiv](https://arxiv.org/abs/2002.05235)|-|
 |2020/01|Progressive Semantic Image Synthesis via Generative Adversarial Network|VCIP|N/A|[IEEE](https://ieeexplore.ieee.org/document/8966069)|-|
-|2019/12|Image Manipulation with Natural Language using Two-sided Attentive Conditional Generative Adversarial Network|-|N/A|[arXiv](https://arxiv.org/abs/1912.07478)|-|
+|2019/12|Image Manipulation with Natural Language using Two-sided Attentive Conditional Generative Adversarial Network|Neural Networks (2021)|N/A|[arXiv](https://arxiv.org/abs/1912.07478)|-|
 |2019/12|ManiGAN: Text-Guided Image Manipulation|CVPR|N/A|[arXiv](https://arxiv.org/abs/1912.06203)|[PyTorch (Official)](https://github.com/mrlibw/ManiGAN)<br> ![](https://img.shields.io/github/stars/mrlibw/ManiGAN.svg?style=social)|
 |2019/12|Controlling Style and Semantics in Weakly-Supervised Image Generation|ECCV|N/A|[arXiv](https://arxiv.org/abs/1912.03161)|[PyTorch (Official)](https://github.com/dariopavllo/style-semantics)<br> ![](https://img.shields.io/github/stars/dariopavllo/style-semantics.svg?style=social)|
 |2019/09|Controllable Text-to-Image Generation|NeurIPS|N/A|[arXiv](https://arxiv.org/abs/1909.07083)|[PyTorch (Official)](https://github.com/mrlibw/ControlGAN)<br> ![](https://img.shields.io/github/stars/mrlibw/ControlGAN.svg?style=social)<br>[TensorFLow](https://github.com/taki0112/ControlGAN-Tensorflow)<br> ![](https://img.shields.io/github/stars/taki0112/ControlGAN-Tensorflow.svg?style=social)|
@@ -145,6 +143,6 @@ the first preprint release date.
 |2017/07|Semantic Image Synthesis via Adversarial Learning|ICCV|N/A|[arXiv](https://arxiv.org/abs/1707.06873)|[PyTorch](https://github.com/woozzu/dong_iccv_2017)<br> ![](https://img.shields.io/github/stars/woozzu/dong_iccv_2017.svg?style=social)|
 |2016/05|Generative Adversarial Text to Image Synthesis|ICML|N/A|[arXiv](https://arxiv.org/abs/1605.05396)|[Torch (Official)](https://github.com/reedscot/icml2016)<br> ![](https://img.shields.io/github/stars/reedscot/icml2016.svg?style=social)|
 
-
 ## Contributing
+
 Feel free to send me [pull requests](https://github.com/martinduartemore/awesome-text-based-image-manipulation) to add resources.

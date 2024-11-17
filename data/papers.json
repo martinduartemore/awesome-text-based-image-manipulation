@@ -517,8 +517,8 @@
         ],
         "code": [
             {
-                "name": "-",
-                "link": "-"
+                "name": "TensorFlow (Official)",
+                "link": "https://github.com/CannyLab/scones"
             }
         ]
     },
@@ -616,7 +616,7 @@
     {
         "title": "Image Manipulation with Natural Language using Two-sided Attentive Conditional Generative Adversarial Network",
         "date": "2019/12",
-        "venue": "-",
+        "venue": "Neural Networks (2021)",
         "paper_info": [
             {
                 "name": "arXiv",
@@ -706,17 +706,21 @@
     {
         "title": "Text as Neural Operator: Image Manipulation by Text Instruction",
         "date": "2020/08",
-        "venue": "-",
+        "venue": "ACMMM (2021)",
         "paper_info": [
             {
                 "name": "arXiv",
                 "link": "https://arxiv.org/abs/2008.04556"
+            },
+            {
+                "name": "ACM",
+                "link": "https://dl.acm.org/doi/10.1145/3474085.3475343"
             }
         ],
         "code": [
             {
-                "name": "-",
-                "link": "-"
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/google/tim-gan"
             }
         ]
     },
@@ -733,8 +737,8 @@
         ],
         "code": [
             {
-                "name": "-",
-                "link": "-"
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/Victarry/IR-GAN-Code"
             }
         ]
     },
@@ -886,11 +890,15 @@
     {
         "title": "Zero-Shot Text-to-Image Generation",
         "date": "2021/02",
-        "venue": "-",
+        "venue": "ICML",
         "paper_info": [
             {
                 "name": "arXiv",
                 "link": "https://arxiv.org/abs/2102.12092"
+            },
+            {
+                "name": "MLR",
+                "link": "https://proceedings.mlr.press/v139/ramesh21a.html"
             }
         ],
         "code": [
@@ -1039,8 +1047,8 @@
         ],
         "code": [
             {
-                "name": "-",
-                "link": "-"
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/wtjiang98/Language_Guided_Image_Editing"
             }
         ]
     },
@@ -1084,7 +1092,7 @@
     {
         "title": "Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model",
         "date": "2021/11",
-        "venue": "-",
+        "venue": "CVPR (2022)",
         "paper_info": [
             {
                 "name": "arXiv",
@@ -1093,8 +1101,12 @@
         ],
         "code": [
             {
-                "name": "-",
-                "link": "-"
+                "name": "PaddlePaddle (Official)",
+                "link": "https://github.com/zipengxuc/ppe"
+            },
+            {
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/zipengxuc/PPE-Pytorch"
             }
         ]
     },
@@ -1102,11 +1114,15 @@
     {
         "title": "Blended Diffusion for Text-driven Editing of Natural Images",
         "date": "2021/11",
-        "venue": "-",
+        "venue": "CVPR (2022)",
         "paper_info": [
             {
                 "name": "arXiv",
                 "link": "https://arxiv.org/abs/2111.14818"
+            },
+            {
+                "name": "CvF",
+                "link": "https://openaccess.thecvf.com/content/CVPR2022/papers/Avrahami_Blended_Diffusion_for_Text-Driven_Editing_of_Natural_Images_CVPR_2022_paper.pdf"
             }
         ],
         "code": [
@@ -1138,11 +1154,15 @@
     {
         "title": "Embedding Arithmetic for Text-driven Image Transformation",
         "date": "2021/12",
-        "venue": "-",
+        "venue": "CVPR (2022, O-DRUM Workshop)",
         "paper_info": [
             {
                 "name": "arXiv",
                 "link": "https://arxiv.org/abs/2112.03162"
+            },
+            {
+                "name": "CvF",
+                "link": "https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/papers/Couairon_Embedding_Arithmetic_of_Multimodal_Queries_for_Image_Retrieval_CVPRW_2022_paper.pdf"
             }
         ],
         "code": [
@@ -1192,7 +1212,7 @@
     {
         "title": "More Control for Free! Image Synthesis with Semantic Diffusion Guidance",
         "date": "2021/12",
-        "venue": "-",
+        "venue": "WACV (2023)",
         "paper_info": [
             {
                 "name": "arXiv",
@@ -1201,8 +1221,8 @@
         ],
         "code": [
             {
-                "name": "- (Official)",
-                "link": "https://xh-liu.github.io/sdg/"
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/xh-liu/SDG_code/"
             }
         ]
     },
@@ -1228,11 +1248,15 @@
     {
         "title": "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models",
         "date": "2021/12",
-        "venue": "-",
+        "venue": "ICML (2022)",
         "paper_info": [
             {
                 "name": "arXiv",
                 "link": "https://arxiv.org/abs/2112.08493"
+            },
+            {
+                "name": "MLR",
+                "link": "https://proceedings.mlr.press/v162/nichol22a/nichol22a.pdf"
             }
         ],
         "code": [
@@ -1273,8 +1297,8 @@
         ],
         "code": [
             {
-                "name": "-",
-                "link": "-"
+                "name": "PyTorch",
+                "link": "https://github.com/Psarpei/GanVinci"
             }
         ]
     },
@@ -1300,17 +1324,21 @@
     {
         "title": "Name Your Style: An Arbitrary Artist-aware Image Style Transfer",
         "date": "2022/02",
-        "venue": "-",
+        "venue": "CVPR (2023, Workshop)",
         "paper_info": [
             {
                 "name": "arXiv",
                 "link": "https://arxiv.org/abs/2202.13562"
+            },
+            {
+                "name": "CvF",
+                "link": "https://openaccess.thecvf.com/content/CVPR2023W/CVFAD/papers/Liu_Name_Your_Style_Text-Guided_Artistic_Style_Transfer_CVPRW_2023_paper.pdf"
             }
         ],
         "code": [
             {
-                "name": "-",
-                "link": "-"
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/Holmes-Alan/TxST"
             }
         ]
     },
@@ -1327,8 +1355,8 @@
         ],
         "code": [
             {
-                "name": "-",
-                "link": "-"
+                "name": "PyTorch (Official)",
+                "link": "https://github.com/facebookresearch/SemanticImageTranslation"
             }
         ]
     },
@@ -1365,24 +1393,6 @@
             {
                 "name": "PyTorch (Official)",
                 "link": "https://github.com/jialuli-luka/EnvEdit"
-            }
-        ]
-    },
-
-    {
-        "title": "AnyFace: Free-style Text-to-Face Synthesis and Manipulation",
-        "date": "2022/03",
-        "venue": "-",
-        "paper_info": [
-            {
-                "name": "arXiv",
-                "link": "https://arxiv.org/abs/2203.15334"
-            }
-        ],
-        "code": [
-            {
-                "name": "-",
-                "link": "-"
             }
         ]
     },
@@ -1455,24 +1465,6 @@
             {
                 "name": "-",
                 "link": "-"
-            }
-        ]
-    },
-
-    {
-        "title": "DE-Net: Dynamic Text-guided Image Editing Adversarial Networks",
-        "date": "2022/06",
-        "venue": "AAAI",
-        "paper_info": [
-            {
-                "name": "arXiv",
-                "link": "https://arxiv.org/abs/2206.01160"
-            }
-        ],
-        "code": [
-            {
-                "name": "PyTorch (Official)",
-                "link": "https://github.com/tobran/DE-Net"
             }
         ]
     },
@@ -2098,7 +2090,7 @@
     {
         "title": "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation",
         "date": "2022/08",
-        "venue": "-",
+        "venue": "CVPR (2023)",
         "paper_info": [
             {
                 "name": "arXiv",
@@ -2111,8 +2103,12 @@
         ],
         "code": [
             {
-                "name": "-",
-                "link": "-"
+                "name": "Dataset (Official)",
+                "link": "https://github.com/google/dreambooth"
+            },
+            {
+                "name": "PyTorch",
+                "link": "https://github.com/XavierXiao/Dreambooth-Stable-Diffusion"
             }
         ]
     }
